@@ -1,0 +1,23 @@
+{
+  "title": "Compton's Pictured Encyclopedia",
+  "edition": "1st edition, c1922, 7 article volumes",
+  "years": "1922",
+  "volumes": 7,
+  "articles": 2754,
+  "words": 2574221,
+  "letters": 26,
+  "corrections_note": "Counted fixes (engine + context + proofread + headword): 34,936 (engine 33,006; context 912; proofread 739; headword 279). Structure/assembly operations are counted separately per volume and are not summed here; see corrections.md in the reference folder for the full per-volume lists.",
+  "source": "HathiTrust record 100645814; Internet Archive first-edition scans comptonspictured01unse-08unse (F. E. Compton & Co., Chicago, 1922). Editor-in-Chief Guy Stanton Ford; Managing Editors Samuel Bannister Harding and Athol Ewart Rollins; Art Editor Seymour Jones. All 8 title pages read as images (copyright 1922, deposit stamp Mar 13 1922). The 1924 printing is a different printing and was never used as a source of text or page numbers.",
+  "pages_note": "Article page numbers are the exact printed folios where the leafmap anchored them. Folios run continuously 1-3842 across the 7 article volumes. Volume 8 (study outlines and Fact-Index, folios 3843-4410) holds no articles and is excluded. Folio 1 occurs twice in vol. 1 (a portrait leaf and the text leaf 26, AACHEN); entries use the text pagination. No entry has a null page.",
+  "key_note": "Keys are lowercase with non-alphanumerics stripped, as in the Britannica/Chambers's/Catholic/New International/Collier's/World Book builds. Leading digits are stripped from the KEY only (fused folio numbers); the display headword is kept verbatim. Headword stress apostrophes are kept as printed (e.g. AB'ELARD).",
+  "honest_limits": "No second full-text copy exists: all verification was against this scan's own page images (HathiTrust is image-only; the 1924 printing is a different printing and was never used). Proofread coverage is partial everywhere (vol. 1: ~130 leaves read as images; vol. 2: 51/449 articles read; vol. 3: first 50 articles + every headword line; vol. 4: 50-article read; vol. 5: articles 100-149 + every headword line; vol. 6: every headword line + a contiguous run; vol. 7: 293 proofread fixes). A headword both merged mid-paragraph AND invisible to running heads could still be missed; the running-head audits found no further misses. Unrecovered items are listed per volume in unresolved.md (footer-bleed losses, picture-caption interleavings, garbled tokens left as-is, map/table/diagram labels). The book's own factual errors (e.g. URAL '16,000 miles', WALLACE 'Edward III') are kept as printed. PLATES: this site carries the full-page plate leaves (maps, portraits, full-page pictures) as web images, reduced in size for the web; small in-text figures are NOT included. Volume 8's two-leaf colour plate (leaves 579-580, gateway artwork signed 'Hilda Hanway') is a book-level plate with no article. GAP-FILL (2026-11-27): 18 articles the original parse had swept into neighbouring entries — 15 'Little Talks on Great Things' essays (AMBITION, CHIVALRY, COURAGE, EMOTIONS, FAITH, FRIENDSHIP, GOOD MANNERS, HUMILITY, IMAGINATION, KEEPING OUR WORD, OBEDIENCE, OPTIMISM, PURITY, SLANDER, THE VALUE OF TIME), PROTECTIVE COLORATION, LIFE-SAVING SERVICE and NATIONAL PARKS — were recovered from the same-edition leaf text, page images and the book's own Fact-Index and added; count 2,736 to 2,754. See work-sitebuild/gapfill-plates-report.md. NATIONAL PARKS' recovered text starts mid-sentence (its opening does not survive in the scan's OCR).",
+  "per_volume": {
+    "1": 354,
+    "2": 451,
+    "3": 345,
+    "4": 415,
+    "5": 308,
+    "6": 436,
+    "7": 445
+  }
+}

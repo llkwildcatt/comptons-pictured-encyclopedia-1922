@@ -1,0 +1,1795 @@
+{
+ "plates": [
+  {
+   "key": "ambition",
+   "article": "AMBITION",
+   "volume": 1,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v1-n5.jpg",
+   "caption": "AMBITION"
+  },
+  {
+   "key": "addition",
+   "article": "ADDITION",
+   "volume": 1,
+   "leaf": 44,
+   "folio": 18,
+   "file": "plates/v1-n44.jpg",
+   "caption": "Addition \u2014 Mary's Dream"
+  },
+  {
+   "key": "addition",
+   "article": "ADDITION",
+   "volume": 1,
+   "leaf": 45,
+   "folio": 20,
+   "file": "plates/v1-n45.jpg",
+   "caption": "Addition \u2014 Mr. Arithmetic"
+  },
+  {
+   "key": "addition",
+   "article": "ADDITION",
+   "volume": 1,
+   "leaf": 46,
+   "folio": 21,
+   "file": "plates/v1-n46.jpg",
+   "caption": "Addition \u2014 The Four Signs"
+  },
+  {
+   "key": "addition",
+   "article": "ADDITION",
+   "volume": 1,
+   "leaf": 47,
+   "folio": 22,
+   "file": "plates/v1-n47.jpg",
+   "caption": "Addition \u2014 marching figures"
+  },
+  {
+   "key": "addition",
+   "article": "ADDITION",
+   "volume": 1,
+   "leaf": 48,
+   "folio": 23,
+   "file": "plates/v1-n48.jpg",
+   "caption": "Addition \u2014 Figures Never Lie"
+  },
+  {
+   "key": "africa",
+   "article": "AFRICA",
+   "volume": 1,
+   "leaf": 66,
+   "folio": 40,
+   "file": "plates/v1-n66.jpg",
+   "caption": "THINGS YOU SHOULD KNOW ABOUT AFRICA"
+  },
+  {
+   "key": "africa",
+   "article": "AFRICA",
+   "volume": 1,
+   "leaf": 68,
+   "folio": 40,
+   "file": "plates/v1-n68.jpg",
+   "caption": "AFRICA"
+  },
+  {
+   "key": "agriculture",
+   "article": "AGRICULTURE",
+   "volume": 1,
+   "leaf": 78,
+   "folio": 49,
+   "file": "plates/v1-n78.jpg",
+   "caption": "WONDERS OF SCIENTIFIC LIVE STOCK BREEDING"
+  },
+  {
+   "key": "alabama",
+   "article": "ALABAMA",
+   "volume": 1,
+   "leaf": 100,
+   "folio": 71,
+   "file": "plates/v1-n100.jpg",
+   "caption": "WHERE ALABAMA'S RICHES LIE"
+  },
+  {
+   "key": "antelope",
+   "article": "ANTELOPE",
+   "volume": 1,
+   "leaf": 176,
+   "folio": 146,
+   "file": "plates/v1-n176.jpg",
+   "caption": "MEMBERS OF THE FLEET-FOOTED ANTELOPE FAMILY"
+  },
+  {
+   "key": "apperception",
+   "article": "APPERCEPTION",
+   "volume": 1,
+   "leaf": 188,
+   "folio": 159,
+   "file": "plates/v1-n188.jpg",
+   "caption": "A PICTURE-DEFINITION OF APPERCEPTION"
+  },
+  {
+   "key": "arabia",
+   "article": "ARABIA",
+   "volume": 1,
+   "leaf": 200,
+   "folio": 171,
+   "file": "plates/v1-n200.jpg",
+   "caption": "ALADDIN AND THE BEAUTIFUL BUDDIR AL BUDDOOR"
+  },
+  {
+   "key": "architecture",
+   "article": "ARCHITECTURE",
+   "volume": 1,
+   "leaf": 206,
+   "folio": 175,
+   "file": "plates/v1-n206.jpg",
+   "caption": "CROWNING GLORIES OF ANCIENT ARCHITECTURE"
+  },
+  {
+   "key": "arithmetic",
+   "article": "ARITHMETIC",
+   "volume": 1,
+   "leaf": 228,
+   "folio": 196,
+   "file": "plates/v1-n228.jpg",
+   "caption": "PUZZLE-PROBLEMS FROM AN OLD ARITHMETIC"
+  },
+  {
+   "key": "asia",
+   "article": "ASIA",
+   "volume": 1,
+   "leaf": 264,
+   "folio": 232,
+   "file": "plates/v1-n264.jpg",
+   "caption": "THINGS YOU SHOULD KNOW ABOUT ASIA"
+  },
+  {
+   "key": "asia",
+   "article": "ASIA",
+   "volume": 1,
+   "leaf": 267,
+   "folio": 232,
+   "file": "plates/v1-n267.jpg",
+   "caption": "ASIA (western half)"
+  },
+  {
+   "key": "asia",
+   "article": "ASIA",
+   "volume": 1,
+   "leaf": 268,
+   "folio": 232,
+   "file": "plates/v1-n268.jpg",
+   "caption": "ASIA (eastern half)"
+  },
+  {
+   "key": "australia",
+   "article": "AUSTRALIA",
+   "volume": 1,
+   "leaf": 302,
+   "folio": 264,
+   "file": "plates/v1-n302.jpg",
+   "caption": "THINGS YOU SHOULD KNOW ABOUT AUSTRALIA"
+  },
+  {
+   "key": "australia",
+   "article": "AUSTRALIA",
+   "volume": 1,
+   "leaf": 304,
+   "folio": 264,
+   "file": "plates/v1-n304.jpg",
+   "caption": "AUSTRALIA"
+  },
+  {
+   "key": "baseball",
+   "article": "BASEBALL",
+   "volume": 1,
+   "leaf": 380,
+   "folio": 339,
+   "file": "plates/v1-n380.jpg",
+   "caption": "SNAPSHOTS ON THE BASEBALL FIELD"
+  },
+  {
+   "key": "bee",
+   "article": "BEE",
+   "volume": 1,
+   "leaf": 401,
+   "folio": 358,
+   "file": "plates/v1-n401.jpg",
+   "caption": "THE BUSY BEES AND THEIR COUSINS"
+  },
+  {
+   "key": "benedictxvpope",
+   "article": "BENEDICT XV, POPE",
+   "volume": 1,
+   "leaf": 426,
+   "folio": 383,
+   "file": "plates/v1-n426.jpg",
+   "caption": "HIS HOLINESS, POPE BENEDICT XV"
+  },
+  {
+   "key": "britishcolumbiacanada",
+   "article": "BRITISH COLUMBIA, CANADA",
+   "volume": 1,
+   "leaf": 554,
+   "folio": 511,
+   "file": "plates/v1-n554.jpg",
+   "caption": "A SENTINEL PEAK OF BRITISH COLUMBIA"
+  },
+  {
+   "key": "courage",
+   "article": "COURAGE",
+   "volume": 2,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v2-n5.jpg",
+   "caption": "COURAGE"
+  },
+  {
+   "key": "butterfliesandmoths",
+   "article": "BUTTERFLIES AND MOTHS",
+   "volume": 2,
+   "leaf": 44,
+   "folio": 548,
+   "file": "plates/v2-n44.jpg",
+   "caption": "WHO'S WHO AMONG THE BUTTERFLIES"
+  },
+  {
+   "key": "cabbage",
+   "article": "CABBAGE",
+   "volume": 2,
+   "leaf": 51,
+   "folio": 553,
+   "file": "plates/v2-n51.jpg",
+   "caption": "ANOTHER CABBAGE FAMILY GROUP"
+  },
+  {
+   "key": "cablessubmarine",
+   "article": "CABLES, SUBMARINE",
+   "volume": 2,
+   "leaf": 56,
+   "folio": 559,
+   "file": "plates/v2-n56.jpg",
+   "caption": "AN INJURED CABLE BROUGHT ON BOARD"
+  },
+  {
+   "key": "cablessubmarine",
+   "article": "CABLES, SUBMARINE",
+   "volume": 2,
+   "leaf": 57,
+   "folio": 559,
+   "file": "plates/v2-n57.jpg",
+   "caption": "WHERE THE CABLE COMES TO LAND"
+  },
+  {
+   "key": "canada",
+   "article": "CANADA",
+   "volume": 2,
+   "leaf": 97,
+   "folio": 600,
+   "file": "plates/v2-n97.jpg",
+   "caption": "ONE OF CANADA'S MANY BEAUTIFUL LAKES"
+  },
+  {
+   "key": "canada",
+   "article": "CANADA",
+   "volume": 2,
+   "leaf": 101,
+   "folio": 602,
+   "file": "plates/v2-n101.jpg",
+   "caption": "DOMINION OF CANADA AND NEWFOUNDLAND (western half)"
+  },
+  {
+   "key": "canada",
+   "article": "CANADA",
+   "volume": 2,
+   "leaf": 102,
+   "folio": 602,
+   "file": "plates/v2-n102.jpg",
+   "caption": "DOMINION OF CANADA AND NEWFOUNDLAND (eastern half)"
+  },
+  {
+   "key": "canada",
+   "article": "CANADA",
+   "volume": 2,
+   "leaf": 114,
+   "folio": 612,
+   "file": "plates/v2-n114.jpg",
+   "caption": "THE CHILDREN IN WILLOW-WILLOW LAND"
+  },
+  {
+   "key": "carrolllewis",
+   "article": "CARROLL, LEWIS",
+   "volume": 2,
+   "leaf": 150,
+   "folio": 649,
+   "file": "plates/v2-n150.jpg",
+   "caption": "JUST LOOK HOW THEY TREATED ALICE!"
+  },
+  {
+   "key": "castle",
+   "article": "CASTLE",
+   "volume": 2,
+   "leaf": 156,
+   "folio": 655,
+   "file": "plates/v2-n156.jpg",
+   "caption": "A typical castle of the days 'when knighthood was in flower'"
+  },
+  {
+   "key": "charleskingsofenglandandscotland",
+   "article": "CHARLES, KINGS OF ENGLAND AND SCOTLAND",
+   "volume": 2,
+   "leaf": 193,
+   "folio": 691,
+   "file": "plates/v2-n193.jpg",
+   "caption": "CHARLES I TAKING A HOLIDAY TRIP ON THE THAMES"
+  },
+  {
+   "key": "childtraining",
+   "article": "CHILD TRAINING",
+   "volume": 2,
+   "leaf": 234,
+   "folio": 731,
+   "file": "plates/v2-n234.jpg",
+   "caption": "NINE MISTAKES PARENTS SHOULD AVOID"
+  },
+  {
+   "key": "christmas",
+   "article": "CHRISTMAS",
+   "volume": 2,
+   "leaf": 262,
+   "folio": 761,
+   "file": "plates/v2-n262.jpg",
+   "caption": "THE TRANSFORMATION OF OLD SCROOGE"
+  },
+  {
+   "key": "civilization",
+   "article": "CIVILIZATION",
+   "volume": 2,
+   "leaf": 276,
+   "folio": 775,
+   "file": "plates/v2-n276.jpg",
+   "caption": "THE TRAIN OF CIVILIZATION SPEEDS ON!"
+  },
+  {
+   "key": "cleopatra",
+   "article": "CLEOPATRA",
+   "volume": 2,
+   "leaf": 289,
+   "folio": 787,
+   "file": "plates/v2-n289.jpg",
+   "caption": "THE \"SERPENT OF THE NILE\" IN HER ROYAL GALLEY"
+  },
+  {
+   "key": "clothingindustry",
+   "article": "CLOTHING INDUSTRY",
+   "volume": 2,
+   "leaf": 308,
+   "folio": 807,
+   "file": "plates/v2-n308.jpg",
+   "caption": "THE MANY TAILORS THAT MAKE A MAN"
+  },
+  {
+   "key": "clothingindustry",
+   "article": "CLOTHING INDUSTRY",
+   "volume": 2,
+   "leaf": 309,
+   "folio": 808,
+   "file": "plates/v2-n309.jpg",
+   "caption": "THE PICTURE GALLERY IN THE SKY"
+  },
+  {
+   "key": "constellations",
+   "article": "CONSTELLATIONS",
+   "volume": 2,
+   "leaf": 374,
+   "folio": 873,
+   "file": "plates/v2-n374.jpg",
+   "caption": "THE STRANGE CREATURES YOU CAN SEE IN THE SKY"
+  },
+  {
+   "key": "costume",
+   "article": "COSTUME",
+   "volume": 2,
+   "leaf": 400,
+   "folio": 897,
+   "file": "plates/v2-n400.jpg",
+   "caption": "SOME QUEER COSTUMES IN TIME'S FASHION PARADE"
+  },
+  {
+   "key": "costume",
+   "article": "COSTUME",
+   "volume": 2,
+   "leaf": 401,
+   "folio": 897,
+   "file": "plates/v2-n401.jpg",
+   "caption": "When Men Put on Trousers"
+  },
+  {
+   "key": "crusades",
+   "article": "CRUSADES",
+   "volume": 2,
+   "leaf": 432,
+   "folio": 931,
+   "file": "plates/v2-n432.jpg",
+   "caption": "ST. BERNARD ROUSES WESTERN EUROPE TO CRUSADING ZEAL"
+  },
+  {
+   "key": "decorationsofhonor",
+   "article": "DECORATIONS OF HONOR",
+   "volume": 2,
+   "leaf": 478,
+   "folio": 977,
+   "file": "plates/v2-n478.jpg",
+   "caption": "MEDALS THAT MARK MEN OF VALOR"
+  },
+  {
+   "key": "drama",
+   "article": "DRAMA",
+   "volume": 2,
+   "leaf": 536,
+   "folio": 1035,
+   "file": "plates/v2-n536.jpg",
+   "caption": "WHEN PAGEANTRY WAS AT ITS BEST IN OLDEN TIMES"
+  },
+  {
+   "key": "earth",
+   "article": "EARTH",
+   "volume": 2,
+   "leaf": 562,
+   "folio": 1061,
+   "file": "plates/v2-n562.jpg",
+   "caption": "WHEN EAST MET WEST IN 1521"
+  },
+  {
+   "key": "easter",
+   "article": "EASTER",
+   "volume": 2,
+   "leaf": 572,
+   "folio": 1071,
+   "file": "plates/v2-n572.jpg",
+   "caption": "THE FLOWER THAT BLOOMS AT EASTER-TIDE"
+  },
+  {
+   "key": "eclipse",
+   "article": "ECLIPSE",
+   "volume": 2,
+   "leaf": 576,
+   "folio": 1075,
+   "file": "plates/v2-n576.jpg",
+   "caption": "'HIDE-AND-SEEK' IN THE HEAVENS"
+  },
+  {
+   "key": "eddymarybaker",
+   "article": "EDDY, MARY BAKER",
+   "volume": 2,
+   "leaf": 582,
+   "folio": 1081,
+   "file": "plates/v2-n582.jpg",
+   "caption": "THE MOTHER CHURCH OF THE CHRISTIAN SCIENCE FAITH"
+  },
+  {
+   "key": "faith",
+   "article": "FAITH",
+   "volume": 3,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v3-n5.jpg",
+   "caption": "FAITH"
+  },
+  {
+   "key": "electricity",
+   "article": "ELECTRICITY",
+   "volume": 3,
+   "leaf": 44,
+   "folio": 1115,
+   "file": "plates/v3-n44.jpg",
+   "caption": "HOW MAN HAS PUT ELECTRICITY TO WORK"
+  },
+  {
+   "key": "elephant",
+   "article": "ELEPHANT",
+   "volume": 3,
+   "leaf": 58,
+   "folio": 1129,
+   "file": "plates/v3-n58.jpg",
+   "caption": "NOW IT'S TIME TO CLIMB A TREE"
+  },
+  {
+   "key": "elevator",
+   "article": "ELEVATOR",
+   "volume": 3,
+   "leaf": 62,
+   "folio": 1133,
+   "file": "plates/v3-n62.jpg",
+   "caption": "THE MACHINE THAT MAKES SKYSCRAPERS POSSIBLE"
+  },
+  {
+   "key": "englandsconquerors",
+   "article": "ENGLAND\u2019S CONQUERORS",
+   "volume": 3,
+   "leaf": 82,
+   "folio": 1152,
+   "file": "plates/v3-n82.jpg",
+   "caption": "BRITISH ISLES"
+  },
+  {
+   "key": "engraving",
+   "article": "ENGRAVING",
+   "volume": 3,
+   "leaf": 100,
+   "folio": 1168,
+   "file": "plates/v3-n100.jpg",
+   "caption": "FIRST STEP IN MAKING AN ILLUSTRATION FOR THIS BOOK"
+  },
+  {
+   "key": "europe",
+   "article": "EUROPE",
+   "volume": 3,
+   "leaf": 122,
+   "folio": 1190,
+   "file": "plates/v3-n122.jpg",
+   "caption": "THINGS YOU SHOULD KNOW ABOUT EUROPE"
+  },
+  {
+   "key": "europe",
+   "article": "EUROPE",
+   "volume": 3,
+   "leaf": 131,
+   "folio": 1196,
+   "file": "plates/v3-n131.jpg",
+   "caption": "EUROPE (western half)"
+  },
+  {
+   "key": "europe",
+   "article": "EUROPE",
+   "volume": 3,
+   "leaf": 132,
+   "folio": 1196,
+   "file": "plates/v3-n132.jpg",
+   "caption": "POLITICAL MAP OF EUROPE (eastern half)"
+  },
+  {
+   "key": "europe",
+   "article": "EUROPE",
+   "volume": 3,
+   "leaf": 140,
+   "folio": 1203,
+   "file": "plates/v3-n140.jpg",
+   "caption": "ARISTOCRATS OF ART IN THE LOUVRE"
+  },
+  {
+   "key": "eye",
+   "article": "EYE",
+   "volume": 3,
+   "leaf": 152,
+   "folio": 1215,
+   "file": "plates/v3-n152.jpg",
+   "caption": "SEVERAL WAYS OF LOOKING AT THE WORLD!"
+  },
+  {
+   "key": "ferns",
+   "article": "FERNS",
+   "volume": 3,
+   "leaf": 170,
+   "folio": 1233,
+   "file": "plates/v3-n170.jpg",
+   "caption": "A \"FOREST\" OF GRACEFUL FERNS"
+  },
+  {
+   "key": "finearts",
+   "article": "FINE ARTS",
+   "volume": 3,
+   "leaf": 182,
+   "folio": 1245,
+   "file": "plates/v3-n182.jpg",
+   "caption": "The famous painting by Corot, called 'Morning' or 'The Dance of the Nymphs'"
+  },
+  {
+   "key": "fish",
+   "article": "FISH",
+   "volume": 3,
+   "leaf": 218,
+   "folio": 1281,
+   "file": "plates/v3-n218.jpg",
+   "caption": "TWO FAMOUS FISH NURSERIES"
+  },
+  {
+   "key": "fisheries",
+   "article": "FISHERIES",
+   "volume": 3,
+   "leaf": 221,
+   "folio": 1283,
+   "file": "plates/v3-n221.jpg",
+   "caption": "\"HARVESTING\" SALMON IN THE NORTHWEST"
+  },
+  {
+   "key": "florenceitaly",
+   "article": "FLORENCE, ITALY",
+   "volume": 3,
+   "leaf": 231,
+   "folio": 1293,
+   "file": "plates/v3-n231.jpg",
+   "caption": "LOOKING ACROSS THE HEART OF FLORENCE"
+  },
+  {
+   "key": "florida",
+   "article": "FLORIDA",
+   "volume": 3,
+   "leaf": 235,
+   "folio": 1297,
+   "file": "plates/v3-n235.jpg",
+   "caption": "FLORIDA"
+  },
+  {
+   "key": "france",
+   "article": "FRANCE",
+   "volume": 3,
+   "leaf": 279,
+   "folio": 1342,
+   "file": "plates/v3-n279.jpg",
+   "caption": "HISTORIC SPOTS IN PICTURESQUE FRANCE"
+  },
+  {
+   "key": "frenchrevolution",
+   "article": "FRENCH REVOLUTION",
+   "volume": 3,
+   "leaf": 306,
+   "folio": 1369,
+   "file": "plates/v3-n306.jpg",
+   "caption": "THE ARISTOCRATS AND THE MOB IN THE STREETS OF PARIS"
+  },
+  {
+   "key": "geographytellsyou",
+   "article": "GEOGRAPHY TELLS YOU",
+   "volume": 3,
+   "leaf": 351,
+   "folio": 1414,
+   "file": "plates/v3-n351.jpg",
+   "caption": "CTX: THE HUGE STAGE ON WHICH [title runs off the leaf edge; globe of North America, sideways]"
+  },
+  {
+   "key": "germany",
+   "article": "GERMANY",
+   "volume": 3,
+   "leaf": 379,
+   "folio": 1441,
+   "file": "plates/v3-n379.jpg",
+   "caption": "THE HOME OF THE KAISER IN THE DAYS OF THE EMPIRE"
+  },
+  {
+   "key": "germany",
+   "article": "GERMANY",
+   "volume": 3,
+   "leaf": 380,
+   "folio": 1441,
+   "file": "plates/v3-n380.jpg",
+   "caption": "THE FAMOUS THEATER AT WEIMAR, THE \"ATHENS OF GERMANY\""
+  },
+  {
+   "key": "germany",
+   "article": "GERMANY",
+   "volume": 3,
+   "leaf": 381,
+   "folio": 1441,
+   "file": "plates/v3-n381.jpg",
+   "caption": "ONE OF THE GREAT STEEL WORKS OF GERMANY"
+  },
+  {
+   "key": "glass",
+   "article": "GLASS",
+   "volume": 3,
+   "leaf": 410,
+   "folio": 1473,
+   "file": "plates/v3-n410.jpg",
+   "caption": "SCENES IN THE STORY OF GLASS-MAKING"
+  },
+  {
+   "key": "grasshopper",
+   "article": "GRASSHOPPER",
+   "volume": 3,
+   "leaf": 442,
+   "folio": 1505,
+   "file": "plates/v3-n442.jpg",
+   "caption": "HOW THE LOCUST GETS ITS WINGS"
+  },
+  {
+   "key": "greece",
+   "article": "GREECE",
+   "volume": 3,
+   "leaf": 460,
+   "folio": 1523,
+   "file": "plates/v3-n460.jpg",
+   "caption": "A YOUNG ATHLETE IN THE MAKING"
+  },
+  {
+   "key": "hand",
+   "article": "HAND",
+   "volume": 3,
+   "leaf": 509,
+   "folio": 1571,
+   "file": "plates/v3-n509.jpg",
+   "caption": "\"HANDS\" FOR FLYING, SWIMMING, DIGGING, AND GRASPING"
+  },
+  {
+   "key": "hannibal",
+   "article": "HANNIBAL",
+   "volume": 3,
+   "leaf": 514,
+   "folio": 1577,
+   "file": "plates/v3-n514.jpg",
+   "caption": "WHEN HANNIBAL CROSSED THE ALPS"
+  },
+  {
+   "key": "hardingwarrengamaliel",
+   "article": "HARDING, WARREN GAMALIEL",
+   "volume": 3,
+   "leaf": 518,
+   "folio": 1581,
+   "file": "plates/v3-n518.jpg",
+   "caption": "WARREN G. HARDING"
+  },
+  {
+   "key": "imagination",
+   "article": "IMAGINATION",
+   "volume": 4,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v4-n5.jpg",
+   "caption": "IMAGINATION"
+  },
+  {
+   "key": "hawthornenathaniel",
+   "article": "HAWTHORNE, NATHANIEL",
+   "volume": 4,
+   "leaf": 23,
+   "folio": 1607,
+   "file": "plates/v4-n23.jpg",
+   "caption": "HAWTHORNE READING TO HIS CHILDREN"
+  },
+  {
+   "key": "healthdepartment",
+   "article": "HEALTH DEPARTMENT",
+   "volume": 4,
+   "leaf": 28,
+   "folio": 1612,
+   "file": "plates/v4-n28.jpg",
+   "caption": "GUARDIANS OF OUR HEALTH AT WORK"
+  },
+  {
+   "key": "hippopotamus",
+   "article": "HIPPOPOT'AMUS",
+   "volume": 4,
+   "leaf": 67,
+   "folio": 1652,
+   "file": "plates/v4-n67.jpg",
+   "caption": "HE'S A LITTLE TIRED\u2014THAT'S ALL"
+  },
+  {
+   "key": "idaho",
+   "article": "IDAHO",
+   "volume": 4,
+   "leaf": 143,
+   "folio": 1727,
+   "file": "plates/v4-n143.jpg",
+   "caption": "RICH INDUSTRIES AMID BEAUTIFUL SCENERY"
+  },
+  {
+   "key": "illinois",
+   "article": "ILLINOIS",
+   "volume": 4,
+   "leaf": 150,
+   "folio": 1735,
+   "file": "plates/v4-n150.jpg",
+   "caption": "SOME GREAT ILLINOIS INDUSTRIES"
+  },
+  {
+   "key": "immigration",
+   "article": "IMMIGRATION",
+   "volume": 4,
+   "leaf": 153,
+   "folio": 1737,
+   "file": "plates/v4-n153.jpg",
+   "caption": "IMMIGRANTS ON THE WAY TO THE 'PROMISED LAND'"
+  },
+  {
+   "key": "india",
+   "article": "INDIA",
+   "volume": 4,
+   "leaf": 157,
+   "folio": 1742,
+   "file": "plates/v4-n157.jpg",
+   "caption": "THE DREAM-LIKE \"HALL OF THE WINDS\""
+  },
+  {
+   "key": "insects",
+   "article": "INSECTS",
+   "volume": 4,
+   "leaf": 198,
+   "folio": 1783,
+   "file": "plates/v4-n198.jpg",
+   "caption": "THE CYCLE OF LIFE AND DEATH IN THE FOREST"
+  },
+  {
+   "key": "iowa",
+   "article": "IOWA",
+   "volume": 4,
+   "leaf": 220,
+   "folio": 1803,
+   "file": "plates/v4-n220.jpg",
+   "caption": "PICTURE STORY OF IOWA'S GREATNESS"
+  },
+  {
+   "key": "java",
+   "article": "JAVA",
+   "volume": 4,
+   "leaf": 294,
+   "folio": 1878,
+   "file": "plates/v4-n294.jpg",
+   "caption": "MINISTERS OF THE SULTAN WATCHING A PARADE"
+  },
+  {
+   "key": "jews",
+   "article": "JEWS",
+   "volume": 4,
+   "leaf": 307,
+   "folio": 1891,
+   "file": "plates/v4-n307.jpg",
+   "caption": "THE TRIUMPH OF A GREAT JEWISH HEROINE"
+  },
+  {
+   "key": "lace",
+   "article": "LACE",
+   "volume": 4,
+   "leaf": 368,
+   "folio": 1953,
+   "file": "plates/v4-n368.jpg",
+   "caption": "THE MACHINE STARTS\u2014OUT COMES THE LACE"
+  },
+  {
+   "key": "leegenroberte",
+   "article": "LEE, GEN. ROBERT E.",
+   "volume": 4,
+   "leaf": 398,
+   "folio": 1983,
+   "file": "plates/v4-n398.jpg",
+   "caption": "GENERAL ROBERT E. LEE"
+  },
+  {
+   "key": "libraries",
+   "article": "LIBRARIES",
+   "volume": 4,
+   "leaf": 408,
+   "folio": 1993,
+   "file": "plates/v4-n408.jpg",
+   "caption": "IN AMERICA'S LARGEST LIBRARY"
+  },
+  {
+   "key": "lifesavingservice",
+   "article": "LIFE-SAVING SERVICE",
+   "volume": 4,
+   "leaf": 411,
+   "folio": 1996,
+   "file": "plates/v4-n411.jpg",
+   "caption": "THE CANNON THAT SAVES LIVES"
+  },
+  {
+   "key": "lincolnabraham",
+   "article": "LINCOLN, ABRAHAM",
+   "volume": 4,
+   "leaf": 428,
+   "folio": 2013,
+   "file": "plates/v4-n428.jpg",
+   "caption": "ABRAHAM LINCOLN"
+  },
+  {
+   "key": "livingstonedavid",
+   "article": "LIVINGSTONE, DAVID",
+   "volume": 4,
+   "leaf": 449,
+   "folio": 2034,
+   "file": "plates/v4-n449.jpg",
+   "caption": "THE LAST SAD JOURNEY TO THE SEA"
+  },
+  {
+   "key": "madonna",
+   "article": "MADONNA",
+   "volume": 4,
+   "leaf": 524,
+   "folio": 2109,
+   "file": "plates/v4-n524.jpg",
+   "caption": "THE WORLD-FAMOUS 'MADONNA OF THE CHAIR'"
+  },
+  {
+   "key": "magic",
+   "article": "MAGIC",
+   "volume": 4,
+   "leaf": 534,
+   "folio": 2119,
+   "file": "plates/v4-n534.jpg",
+   "caption": "THE WILD DANCERS OF QUEENSLAND"
+  },
+  {
+   "key": "maine",
+   "article": "MAINE",
+   "volume": 4,
+   "leaf": 542,
+   "folio": 2127,
+   "file": "plates/v4-n542.jpg",
+   "caption": "THE HUMMING INDUSTRIES OF MAINE"
+  },
+  {
+   "key": "maple",
+   "article": "MAPLE",
+   "volume": 4,
+   "leaf": 554,
+   "folio": 2138,
+   "file": "plates/v4-n554.jpg",
+   "caption": "WHEN THE SAP BEGINS TO \"RUN\""
+  },
+  {
+   "key": "optimism",
+   "article": "OPTIMISM",
+   "volume": 5,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v5-n5.jpg",
+   "caption": "OPTIMISM"
+  },
+  {
+   "key": "massachusetts",
+   "article": "MASSACHUSETTS",
+   "volume": 5,
+   "leaf": 34,
+   "folio": 2167,
+   "file": "plates/v5-n34.jpg",
+   "caption": "GLIMPSES OF \"YANKEE INDUSTRY\" IN MASSACHUSETTS"
+  },
+  {
+   "key": "matches",
+   "article": "MATCHES",
+   "volume": 5,
+   "leaf": 40,
+   "folio": 2173,
+   "file": "plates/v5-n40.jpg",
+   "caption": "A MILLION MATCHES IN ONE MACHINE"
+  },
+  {
+   "key": "mexico",
+   "article": "MEXICO",
+   "volume": 5,
+   "leaf": 79,
+   "folio": 2211,
+   "file": "plates/v5-n79.jpg",
+   "caption": "A RIVER SCENE IN MEXICO"
+  },
+  {
+   "key": "mexico",
+   "article": "MEXICO",
+   "volume": 5,
+   "leaf": 82,
+   "folio": 2215,
+   "file": "plates/v5-n82.jpg",
+   "caption": "THE NATIONAL BEVERAGE OF THE MEXICANS"
+  },
+  {
+   "key": "michelangelobuonarroti",
+   "article": "MICHELANGELO BUONARROTI",
+   "volume": 5,
+   "leaf": 88,
+   "folio": 2221,
+   "file": "plates/v5-n88.jpg",
+   "caption": "THE BOY WHO REFUSED TO GIVE UP ART"
+  },
+  {
+   "key": "migration",
+   "article": "MIGRATION",
+   "volume": 5,
+   "leaf": 100,
+   "folio": 2233,
+   "file": "plates/v5-n100.jpg",
+   "caption": "THE LEMMINGS STOP FOR NOTHING!"
+  },
+  {
+   "key": "miltonjohn",
+   "article": "MILTON, JOHN",
+   "volume": 5,
+   "leaf": 108,
+   "folio": 2241,
+   "file": "plates/v5-n108.jpg",
+   "caption": "THE BLIND POET DICTATING 'PARADISE LOST'"
+  },
+  {
+   "key": "missouri",
+   "article": "MISSOURI",
+   "volume": 5,
+   "leaf": 138,
+   "folio": 2271,
+   "file": "plates/v5-n138.jpg",
+   "caption": "GLIMPSES AT MISSOURI'S WEALTH"
+  },
+  {
+   "key": "mohammedandmohammedanism",
+   "article": "MOHAMMED AND MOHAMMEDANISM",
+   "volume": 5,
+   "leaf": 144,
+   "folio": 2277,
+   "file": "plates/v5-n144.jpg",
+   "caption": "MOHAMMED'S TRIUMPHANT RETURN TO MECCA"
+  },
+  {
+   "key": "monkey",
+   "article": "MONKEY",
+   "volume": 5,
+   "leaf": 164,
+   "folio": 2296,
+   "file": "plates/v5-n164.jpg",
+   "caption": "Howler Becomes a Hero"
+  },
+  {
+   "key": "monks",
+   "article": "MONKS",
+   "volume": 5,
+   "leaf": 168,
+   "folio": 2301,
+   "file": "plates/v5-n168.jpg",
+   "caption": "THE VESPER HOUR AT THE MONASTERY"
+  },
+  {
+   "key": "motionpictures",
+   "article": "MOTION PICTURES",
+   "volume": 5,
+   "leaf": 216,
+   "folio": 2349,
+   "file": "plates/v5-n216.jpg",
+   "caption": "SOME OF THE TRICKS OF THE CAMERA MAN"
+  },
+  {
+   "key": "motionpictures",
+   "article": "MOTION PICTURES",
+   "volume": 5,
+   "leaf": 217,
+   "folio": 2349,
+   "file": "plates/v5-n217.jpg",
+   "caption": "MAKING \"TWINS\" OUT OF ONE MAN"
+  },
+  {
+   "key": "murillobartolomeesteban",
+   "article": "MURILLO, BARTOLOME ESTEBAN",
+   "volume": 5,
+   "leaf": 238,
+   "folio": 2371,
+   "file": "plates/v5-n238.jpg",
+   "caption": "THE 'IMMACULATE CONCEPTION' BY MURILLO"
+  },
+  {
+   "key": "mushrooms",
+   "article": "MUSHROOMS",
+   "volume": 5,
+   "leaf": 242,
+   "folio": 2374,
+   "file": "plates/v5-n242.jpg",
+   "caption": "A CONVENTION OF THE MUSHROOMS"
+  },
+  {
+   "key": "nationalparks",
+   "article": "NATIONAL PARKS",
+   "volume": 5,
+   "leaf": 272,
+   "folio": 2403,
+   "file": "plates/v5-n272.jpg",
+   "caption": "A JEWEL OF THE YOSEMITE"
+  },
+  {
+   "key": "naturestudy",
+   "article": "NATURE STUDY",
+   "volume": 5,
+   "leaf": 275,
+   "folio": 2406,
+   "file": "plates/v5-n275.jpg",
+   "caption": "\"WHAT'S THAT!\"\u2014AN INTERRUPTED MIDNIGHT DRINK"
+  },
+  {
+   "key": "naturestudy",
+   "article": "NATURE STUDY",
+   "volume": 5,
+   "leaf": 280,
+   "folio": 2410,
+   "file": "plates/v5-n280.jpg",
+   "caption": "PICTURES FROM A NATURE LOVER'S ALBUM"
+  },
+  {
+   "key": "navy",
+   "article": "NAVY",
+   "volume": 5,
+   "leaf": 296,
+   "folio": 2426,
+   "file": "plates/v5-n296.jpg",
+   "caption": "THE DEADLY STEEL \"FISH\" THAT SWIM TO THEIR MARK"
+  },
+  {
+   "key": "navy",
+   "article": "NAVY",
+   "volume": 5,
+   "leaf": 297,
+   "folio": 2426,
+   "file": "plates/v5-n297.jpg",
+   "caption": "THE \"MOTHER SHIP\" AND HER \"SEA BIRDS\""
+  },
+  {
+   "key": "nebraska",
+   "article": "NEBRASKA",
+   "volume": 5,
+   "leaf": 300,
+   "folio": 2431,
+   "file": "plates/v5-n300.jpg",
+   "caption": "SOME OF NEBRASKA'S CHIEF ATTRACTIONS"
+  },
+  {
+   "key": "newfoundland",
+   "article": "NEWFOUNDLAND",
+   "volume": 5,
+   "leaf": 321,
+   "folio": 2452,
+   "file": "plates/v5-n321.jpg",
+   "caption": "LIKE THE NESTS OF GIANT BIRDS"
+  },
+  {
+   "key": "newhampshire",
+   "article": "NEW HAMPSHIRE",
+   "volume": 5,
+   "leaf": 324,
+   "folio": 2455,
+   "file": "plates/v5-n324.jpg",
+   "caption": "CONTRASTS OF NEW AND OLD IN NEW HAMPSHIRE"
+  },
+  {
+   "key": "newtonsirisaac",
+   "article": "NEWTON, SIR ISAAC",
+   "volume": 5,
+   "leaf": 346,
+   "folio": 2477,
+   "file": "plates/v5-n346.jpg",
+   "caption": "READING THE SECRET OF LIGHT IN A BUBBLE"
+  },
+  {
+   "key": "newyork",
+   "article": "NEW YORK",
+   "volume": 5,
+   "leaf": 352,
+   "folio": 2483,
+   "file": "plates/v5-n352.jpg",
+   "caption": "A FEW OF NEW YORK'S INDUSTRIES"
+  },
+  {
+   "key": "northamerica",
+   "article": "NORTH AMERICA",
+   "volume": 5,
+   "leaf": 384,
+   "folio": 2514,
+   "file": "plates/v5-n384.jpg",
+   "caption": "THINGS YOU SHOULD KNOW ABOUT NORTH AMERICA"
+  },
+  {
+   "key": "northamerica",
+   "article": "NORTH AMERICA",
+   "volume": 5,
+   "leaf": 387,
+   "folio": 2514,
+   "file": "plates/v5-n387.jpg",
+   "caption": "NORTH AMERICA (northern half)"
+  },
+  {
+   "key": "northamerica",
+   "article": "NORTH AMERICA",
+   "volume": 5,
+   "leaf": 388,
+   "folio": 2514,
+   "file": "plates/v5-n388.jpg",
+   "caption": "NORTH AMERICA (southern half)"
+  },
+  {
+   "key": "northdakota",
+   "article": "NORTH DAKOTA",
+   "volume": 5,
+   "leaf": 398,
+   "folio": 2523,
+   "file": "plates/v5-n398.jpg",
+   "caption": "HOW NORTH DAKOTA GETS WEALTH FROM ITS SOIL"
+  },
+  {
+   "key": "northmen",
+   "article": "NORTHMEN",
+   "volume": 5,
+   "leaf": 402,
+   "folio": 2527,
+   "file": "plates/v5-n402.jpg",
+   "caption": "THE NORTHMAN WHO FOUNDED THE RUSSIAN EMPIRE"
+  },
+  {
+   "key": "norway",
+   "article": "NORWAY",
+   "volume": 5,
+   "leaf": 408,
+   "folio": 2533,
+   "file": "plates/v5-n408.jpg",
+   "caption": "\"STRAY SHOTS\" FROM THE CAMERA IN NORWAY"
+  },
+  {
+   "key": "norway",
+   "article": "NORWAY",
+   "volume": 5,
+   "leaf": 410,
+   "folio": 2535,
+   "file": "plates/v5-n410.jpg",
+   "caption": "AMONG NORWAY'S CHIEF CITIES"
+  },
+  {
+   "key": "ocean",
+   "article": "OCEAN",
+   "volume": 5,
+   "leaf": 429,
+   "folio": 2551,
+   "file": "plates/v5-n429.jpg",
+   "caption": "THE FAIRYLAND UNDER THE SEA"
+  },
+  {
+   "key": "ocean",
+   "article": "OCEAN",
+   "volume": 5,
+   "leaf": 434,
+   "folio": 2557,
+   "file": "plates/v5-n434.jpg",
+   "caption": "THEY CARRY THEIR SEARCHLIGHTS WITH THEM"
+  },
+  {
+   "key": "odin",
+   "article": "ODIN",
+   "volume": 5,
+   "leaf": 438,
+   "folio": 2561,
+   "file": "plates/v5-n438.jpg",
+   "caption": "ODIN BEGS A DRINK FROM THE SACRED FOUNTAIN"
+  },
+  {
+   "key": "oklahoma",
+   "article": "OKLAHOMA",
+   "volume": 5,
+   "leaf": 452,
+   "folio": 2575,
+   "file": "plates/v5-n452.jpg",
+   "caption": "PROSPERITY FROM OKLAHOMA'S SOIL"
+  },
+  {
+   "key": "orange",
+   "article": "ORANGE",
+   "volume": 5,
+   "leaf": 466,
+   "folio": 2589,
+   "file": "plates/v5-n466.jpg",
+   "caption": "A VAST INDUSTRY FROM TWO LITTLE TREES"
+  },
+  {
+   "key": "orchid",
+   "article": "ORCHID",
+   "volume": 5,
+   "leaf": 469,
+   "folio": 2592,
+   "file": "plates/v5-n469.jpg",
+   "caption": "A FLOWER-QUEEN OF THE TROPICS"
+  },
+  {
+   "key": "oxfordengland",
+   "article": "OXFORD, ENGLAND",
+   "volume": 5,
+   "leaf": 486,
+   "folio": 2608,
+   "file": "plates/v5-n486.jpg",
+   "caption": "ARCHITECTURAL BEAUTIES OF OXFORD"
+  },
+  {
+   "key": "pacificocean",
+   "article": "PACIFIC OCEAN",
+   "volume": 5,
+   "leaf": 503,
+   "folio": 2624,
+   "file": "plates/v5-n503.jpg",
+   "caption": "PHYSICAL MAP OF THE PACIFIC OCEAN (eastern half)"
+  },
+  {
+   "key": "pacificocean",
+   "article": "PACIFIC OCEAN",
+   "volume": 5,
+   "leaf": 504,
+   "folio": 2624,
+   "file": "plates/v5-n504.jpg",
+   "caption": "PHYSICAL MAP OF THE PACIFIC OCEAN (western half)"
+  },
+  {
+   "key": "painting",
+   "article": "PAINTING",
+   "volume": 5,
+   "leaf": 516,
+   "folio": 2635,
+   "file": "plates/v5-n516.jpg",
+   "caption": "HISTORY OF PAINTING TOLD BY FAMOUS PICTURES"
+  },
+  {
+   "key": "painting",
+   "article": "PAINTING",
+   "volume": 5,
+   "leaf": 518,
+   "folio": 2636,
+   "file": "plates/v5-n518.jpg",
+   "caption": "LANDSCAPE PAINTING\u2014A COMPARATIVELY RECENT ART"
+  },
+  {
+   "key": "painting",
+   "article": "PAINTING",
+   "volume": 5,
+   "leaf": 519,
+   "folio": 2636,
+   "file": "plates/v5-n519.jpg",
+   "caption": "PAINTERS OF IDEAS AND EMOTIONS"
+  },
+  {
+   "key": "painting",
+   "article": "PAINTING",
+   "volume": 5,
+   "leaf": 521,
+   "folio": 2640,
+   "file": "plates/v5-n521.jpg",
+   "caption": "THE ART OF \"COMPOSING\" GROUP PICTURES"
+  },
+  {
+   "key": "painting",
+   "article": "PAINTING",
+   "volume": 5,
+   "leaf": 522,
+   "folio": 2640,
+   "file": "plates/v5-n522.jpg",
+   "caption": "A STUDY IN CONTRASTS\u2014CLASSICAL AND ROMANTIC"
+  },
+  {
+   "key": "panamarepublicof",
+   "article": "PANAMA, REPUBLIC OF",
+   "volume": 5,
+   "leaf": 531,
+   "folio": 2650,
+   "file": "plates/v5-n531.jpg",
+   "caption": "SCIENCE POINTS THE WAY"
+  },
+  {
+   "key": "panamacanal",
+   "article": "PANAMA CANAL",
+   "volume": 5,
+   "leaf": 540,
+   "folio": 2658,
+   "file": "plates/v5-n540.jpg",
+   "caption": "WHERE THE CANAL GETS ITS WATER / A VIEW FROM MIRAFLORES LOCKS"
+  },
+  {
+   "key": "paper",
+   "article": "PAPER",
+   "volume": 5,
+   "leaf": 553,
+   "folio": 2672,
+   "file": "plates/v5-n553.jpg",
+   "caption": "WHERE THE ROLLS BECOME SHEETS FOR THE PRINTING PRESSES"
+  },
+  {
+   "key": "paradisebirds",
+   "article": "PARADISE BIRDS",
+   "volume": 5,
+   "leaf": 558,
+   "folio": 2676,
+   "file": "plates/v5-n558.jpg",
+   "caption": "AMONG THE BIRDS OF PARADISE"
+  },
+  {
+   "key": "parasites",
+   "article": "PARASITES",
+   "volume": 5,
+   "leaf": 562,
+   "folio": 2678,
+   "file": "plates/v5-n562.jpg",
+   "caption": "BEES TO ELEPHANTS\u2014THEY BITE 'EM ALL!"
+  },
+  {
+   "key": "purity",
+   "article": "PURITY",
+   "volume": 6,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v6-n5.jpg",
+   "caption": "PURITY"
+  },
+  {
+   "key": "parrotsmacawsandcockatoos",
+   "article": "PARROTS, MACAWS, AND COCKATOOS",
+   "volume": 6,
+   "leaf": 16,
+   "folio": 2690,
+   "file": "plates/v6-n16.jpg",
+   "caption": "THE GAUDY PEOPLE OF PARROT LAND"
+  },
+  {
+   "key": "pasteurlouis",
+   "article": "PASTEUR, LOUIS",
+   "volume": 6,
+   "leaf": 20,
+   "folio": 2693,
+   "file": "plates/v6-n20.jpg",
+   "caption": "PASTEUR AT WORK IN HIS LABORATORY"
+  },
+  {
+   "key": "pennsylvania",
+   "article": "PENNSYLVANIA",
+   "volume": 6,
+   "leaf": 46,
+   "folio": 2719,
+   "file": "plates/v6-n46.jpg",
+   "caption": "THE \"KEYSTONE STATE\" IN PICTURES"
+  },
+  {
+   "key": "philippineislands",
+   "article": "PHILIPPINE ISLANDS",
+   "volume": 6,
+   "leaf": 91,
+   "folio": 2763,
+   "file": "plates/v6-n91.jpg",
+   "caption": "The GARDEN ISLES of the CHINA SEA"
+  },
+  {
+   "key": "plymouthmass",
+   "article": "PLYMOUTH, MASS",
+   "volume": 6,
+   "leaf": 170,
+   "folio": 2842,
+   "file": "plates/v6-n170.jpg",
+   "caption": "THE PILGRIMS FIND BASKETS OF CORN"
+  },
+  {
+   "key": "polarexploration",
+   "article": "POLAR EXPLORATION",
+   "volume": 6,
+   "leaf": 188,
+   "folio": 2861,
+   "file": "plates/v6-n188.jpg",
+   "caption": "ON THE MARCH TO THE NORTH POLE"
+  },
+  {
+   "key": "pottery",
+   "article": "POTTERY",
+   "volume": 6,
+   "leaf": 231,
+   "folio": 2903,
+   "file": "plates/v6-n231.jpg",
+   "caption": "THE EVOLUTION OF A \"THROWN\" VASE"
+  },
+  {
+   "key": "prisonsandpunishments",
+   "article": "PRISONS AND PUNISHMENTS",
+   "volume": 6,
+   "leaf": 246,
+   "folio": 2918,
+   "file": "plates/v6-n246.jpg",
+   "caption": "GRUESOME RELICS OF OTHER DAYS"
+  },
+  {
+   "key": "protectivecoloration",
+   "article": "PROTECTIVE COLORATION",
+   "volume": 6,
+   "leaf": 252,
+   "folio": 2925,
+   "file": "plates/v6-n252.jpg",
+   "caption": "SIX EXAMPLES OF NATURE'S CAMOUFLAGE"
+  },
+  {
+   "key": "rice",
+   "article": "RICE",
+   "volume": 6,
+   "leaf": 341,
+   "folio": 3014,
+   "file": "plates/v6-n341.jpg",
+   "caption": "THE PICTURE STORY OF A GRAIN OF RICE"
+  },
+  {
+   "key": "robinhood",
+   "article": "ROBIN HOOD",
+   "volume": 6,
+   "leaf": 358,
+   "folio": 3031,
+   "file": "plates/v6-n358.jpg",
+   "caption": "\"STRAIGHT FLEW THE ARROW TO THE VERY CENTER\""
+  },
+  {
+   "key": "romanhistory",
+   "article": "ROMAN HISTORY",
+   "volume": 6,
+   "leaf": 374,
+   "folio": 3046,
+   "file": "plates/v6-n374.jpg",
+   "caption": "THE ROMANS DEFY THE CONQUERING PYRRHUS"
+  },
+  {
+   "key": "rugsandcarpets",
+   "article": "RUGS AND CARPETS",
+   "volume": 6,
+   "leaf": 405,
+   "folio": 3076,
+   "file": "plates/v6-n405.jpg",
+   "caption": "A GEM OF SILK AND GOLD"
+  },
+  {
+   "key": "scotland",
+   "article": "SCOTLAND",
+   "volume": 6,
+   "leaf": 477,
+   "folio": 3147,
+   "file": "plates/v6-n477.jpg",
+   "caption": "MAJESTIC ARCHITECTURE NOT BUILT WITH HANDS"
+  },
+  {
+   "key": "sculpture",
+   "article": "SCULPTURE",
+   "volume": 6,
+   "leaf": 490,
+   "folio": 3161,
+   "file": "plates/v6-n490.jpg",
+   "caption": "FAMOUS WORKS BY MODERN MASTERS"
+  },
+  {
+   "key": "ships",
+   "article": "SHIPS",
+   "volume": 6,
+   "leaf": 540,
+   "folio": 3210,
+   "file": "plates/v6-n540.jpg",
+   "caption": "BUILDING A SHIP\u2014THE SKELETON"
+  },
+  {
+   "key": "ships",
+   "article": "SHIPS",
+   "volume": 6,
+   "leaf": 544,
+   "folio": 3215,
+   "file": "plates/v6-n544.jpg",
+   "caption": "THE GREAT MOMENT THAT TESTS THE SHIP"
+  },
+  {
+   "key": "shoes",
+   "article": "SHOES",
+   "volume": 6,
+   "leaf": 552,
+   "folio": 3223,
+   "file": "plates/v6-n552.jpg",
+   "caption": "THE EARLY STEPS OF A SHOE"
+  },
+  {
+   "key": "thoughts",
+   "article": "THOUGHTS",
+   "volume": 7,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v7-n5.jpg",
+   "caption": "THOUGHTS"
+  },
+  {
+   "key": "southamerica",
+   "article": "SOUTH AMERICA",
+   "volume": 7,
+   "leaf": 38,
+   "folio": 3288,
+   "file": "plates/v7-n38.jpg",
+   "caption": "THINGS YOU SHOULD KNOW ABOUT SOUTH AMERICA"
+  },
+  {
+   "key": "southamerica",
+   "article": "SOUTH AMERICA",
+   "volume": 7,
+   "leaf": 40,
+   "folio": 3288,
+   "file": "plates/v7-n40.jpg",
+   "caption": "SOUTH AMERICA"
+  },
+  {
+   "key": "southcarolina",
+   "article": "SOUTH CAROLINA",
+   "volume": 7,
+   "leaf": 46,
+   "folio": 3293,
+   "file": "plates/v7-n46.jpg",
+   "caption": "TOKENS OF WEALTH IN SOUTH CAROLINA"
+  },
+  {
+   "key": "storksheronsandcranes",
+   "article": "STORKS, Herons, and Cranes",
+   "volume": 7,
+   "leaf": 116,
+   "folio": 3363,
+   "file": "plates/v7-n116.jpg",
+   "caption": "SNAP-SHOTS AT THE FEATHERED STILT-WALKERS"
+  },
+  {
+   "key": "subtraction",
+   "article": "SUBTRACTION",
+   "volume": 7,
+   "leaf": 134,
+   "folio": 3381,
+   "file": "plates/v7-n134.jpg",
+   "caption": "Subtraction"
+  },
+  {
+   "key": "subtraction",
+   "article": "SUBTRACTION",
+   "volume": 7,
+   "leaf": 135,
+   "folio": 3382,
+   "file": "plates/v7-n135.jpg",
+   "caption": "Subtraction (cont.)"
+  },
+  {
+   "key": "subtraction",
+   "article": "SUBTRACTION",
+   "volume": 7,
+   "leaf": 136,
+   "folio": 3383,
+   "file": "plates/v7-n136.jpg",
+   "caption": "Subtraction (cont.)"
+  },
+  {
+   "key": "tajmahal",
+   "article": "TAJ MAHAL",
+   "volume": 7,
+   "leaf": 184,
+   "folio": 3431,
+   "file": "plates/v7-n184.jpg",
+   "caption": "A BEAUTIFUL DREAM IN MARBLE"
+  },
+  {
+   "key": "telegraph",
+   "article": "TELEGRAPH",
+   "volume": 7,
+   "leaf": 208,
+   "folio": 3455,
+   "file": "plates/v7-n208.jpg",
+   "caption": "\"TELEGRAPHING\" THROUGH THE AGES"
+  },
+  {
+   "key": "tennessee",
+   "article": "TENNESSEE",
+   "volume": 7,
+   "leaf": 220,
+   "folio": 3467,
+   "file": "plates/v7-n220.jpg",
+   "caption": "FROM THE MISSISSIPPI TO THE APPALACHIANS"
+  },
+  {
+   "key": "turtle",
+   "article": "TURTLE",
+   "volume": 7,
+   "leaf": 318,
+   "folio": 3564,
+   "file": "plates/v7-n318.jpg",
+   "caption": "A Story of Long Long Ago"
+  },
+  {
+   "key": "unitedstatesofamerica",
+   "article": "UNITED STATES OF AMERICA",
+   "volume": 7,
+   "leaf": 339,
+   "folio": 3583,
+   "file": "plates/v7-n339.jpg",
+   "caption": "UNITED STATES (western half)"
+  },
+  {
+   "key": "unitedstatesofamerica",
+   "article": "UNITED STATES OF AMERICA",
+   "volume": 7,
+   "leaf": 340,
+   "folio": 3583,
+   "file": "plates/v7-n340.jpg",
+   "caption": "UNITED STATES (eastern half)"
+  },
+  {
+   "key": "washingtongeorge",
+   "article": "WASHINGTON, George",
+   "volume": 7,
+   "leaf": 432,
+   "folio": 3674,
+   "file": "plates/v7-n432.jpg",
+   "caption": "YOUNG GEORGE AND THE CHAMPION WRESTLER"
+  },
+  {
+   "key": "washingtongeorge",
+   "article": "WASHINGTON, George",
+   "volume": 7,
+   "leaf": 434,
+   "folio": 3676,
+   "file": "plates/v7-n434.jpg",
+   "caption": "WASHINGTON THROWING A STONE ACROSS THE RAPPAHANNOCK"
+  },
+  {
+   "key": "washingtondc",
+   "article": "WASHINGTON, D.C.",
+   "volume": 7,
+   "leaf": 438,
+   "folio": 3681,
+   "file": "plates/v7-n438.jpg",
+   "caption": "THE UNITED STATES CAPITOL AT NIGHT"
+  },
+  {
+   "key": "whale",
+   "article": "WHALE",
+   "volume": 7,
+   "leaf": 486,
+   "folio": 3728,
+   "file": "plates/v7-n486.jpg",
+   "caption": "The Whale Gets a Pipe"
+  },
+  {
+   "key": "wilsonwoodrow",
+   "article": "WILSON, Woodrow",
+   "volume": 7,
+   "leaf": 502,
+   "folio": 3745,
+   "file": "plates/v7-n502.jpg",
+   "caption": "WOODROW WILSON"
+  },
+  {
+   "key": "worldwarof19141918",
+   "article": "WORLD WAR OF 1914-1918",
+   "volume": 7,
+   "leaf": 549,
+   "folio": 3791,
+   "file": "plates/v7-n549.jpg",
+   "caption": "ESCORTING MERCHANT SHIPS THROUGH THE \"U-BOAT ZONE\""
+  },
+  {
+   "key": "worldwarof19141918",
+   "article": "WORLD WAR OF 1914-1918",
+   "volume": 7,
+   "leaf": 566,
+   "folio": 3808,
+   "file": "plates/v7-n566.jpg",
+   "caption": "THE COST OF THE WORLD WAR"
+  },
+  {
+   "key": "worldwarof19141918",
+   "article": "WORLD WAR OF 1914-1918",
+   "volume": 7,
+   "leaf": 568,
+   "folio": 3810,
+   "file": "plates/v7-n568.jpg",
+   "caption": "\"HEY, BUDDY, LOOK AT THE STATUE OF LIBERTY!\""
+  },
+  {
+   "key": "comptons",
+   "article": null,
+   "volume": 8,
+   "leaf": 5,
+   "folio": null,
+   "file": "plates/v8-n5.jpg",
+   "caption": "WHEN ALL THE WORLD IS NEW"
+  },
+  {
+   "key": "comptons",
+   "article": null,
+   "volume": 8,
+   "leaf": 579,
+   "folio": 4410,
+   "file": "plates/v8-n579.jpg",
+   "caption": "CTX: Hilda Hanway gateway artwork (left half)"
+  },
+  {
+   "key": "comptons",
+   "article": null,
+   "volume": 8,
+   "leaf": 580,
+   "folio": 4410,
+   "file": "plates/v8-n580.jpg",
+   "caption": "CTX: Hilda Hanway gateway artwork (right half)"
+  }
+ ]
+}
