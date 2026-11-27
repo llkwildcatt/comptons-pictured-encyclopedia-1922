@@ -16,7 +16,7 @@
    "leaf": 44,
    "folio": 18,
    "file": "plates/v1-n44.jpg",
-   "caption": "Addition \u2014 Mary's Dream"
+   "caption": "Addition — Mary's Dream"
   },
   {
    "key": "addition",
@@ -25,7 +25,7 @@
    "leaf": 45,
    "folio": 20,
    "file": "plates/v1-n45.jpg",
-   "caption": "Addition \u2014 Mr. Arithmetic"
+   "caption": "Addition — Mr. Arithmetic"
   },
   {
    "key": "addition",
@@ -34,7 +34,7 @@
    "leaf": 46,
    "folio": 21,
    "file": "plates/v1-n46.jpg",
-   "caption": "Addition \u2014 The Four Signs"
+   "caption": "Addition — The Four Signs"
   },
   {
    "key": "addition",
@@ -43,7 +43,7 @@
    "leaf": 47,
    "folio": 22,
    "file": "plates/v1-n47.jpg",
-   "caption": "Addition \u2014 marching figures"
+   "caption": "Addition — marching figures"
   },
   {
    "key": "addition",
@@ -52,7 +52,7 @@
    "leaf": 48,
    "folio": 23,
    "file": "plates/v1-n48.jpg",
-   "caption": "Addition \u2014 Figures Never Lie"
+   "caption": "Addition — Figures Never Lie"
   },
   {
    "key": "africa",
@@ -506,7 +506,7 @@
   },
   {
    "key": "englandsconquerors",
-   "article": "ENGLAND\u2019S CONQUERORS",
+   "article": "ENGLAND’S CONQUERORS",
    "volume": 3,
    "leaf": 82,
    "folio": 1152,
@@ -763,7 +763,7 @@
    "leaf": 67,
    "folio": 1652,
    "file": "plates/v4-n67.jpg",
-   "caption": "HE'S A LITTLE TIRED\u2014THAT'S ALL"
+   "caption": "HE'S A LITTLE TIRED—THAT'S ALL"
   },
   {
    "key": "idaho",
@@ -844,7 +844,7 @@
    "leaf": 368,
    "folio": 1953,
    "file": "plates/v4-n368.jpg",
-   "caption": "THE MACHINE STARTS\u2014OUT COMES THE LACE"
+   "caption": "THE MACHINE STARTS—OUT COMES THE LACE"
   },
   {
    "key": "leegenroberte",
@@ -1087,7 +1087,7 @@
    "leaf": 275,
    "folio": 2406,
    "file": "plates/v5-n275.jpg",
-   "caption": "\"WHAT'S THAT!\"\u2014AN INTERRUPTED MIDNIGHT DRINK"
+   "caption": "\"WHAT'S THAT!\"—AN INTERRUPTED MIDNIGHT DRINK"
   },
   {
    "key": "naturestudy",
@@ -1321,7 +1321,7 @@
    "leaf": 518,
    "folio": 2636,
    "file": "plates/v5-n518.jpg",
-   "caption": "LANDSCAPE PAINTING\u2014A COMPARATIVELY RECENT ART"
+   "caption": "LANDSCAPE PAINTING—A COMPARATIVELY RECENT ART"
   },
   {
    "key": "painting",
@@ -1348,7 +1348,7 @@
    "leaf": 522,
    "folio": 2640,
    "file": "plates/v5-n522.jpg",
-   "caption": "A STUDY IN CONTRASTS\u2014CLASSICAL AND ROMANTIC"
+   "caption": "A STUDY IN CONTRASTS—CLASSICAL AND ROMANTIC"
   },
   {
    "key": "panamarepublicof",
@@ -1393,7 +1393,7 @@
    "leaf": 562,
    "folio": 2678,
    "file": "plates/v5-n562.jpg",
-   "caption": "BEES TO ELEPHANTS\u2014THEY BITE 'EM ALL!"
+   "caption": "BEES TO ELEPHANTS—THEY BITE 'EM ALL!"
   },
   {
    "key": "purity",
@@ -1546,7 +1546,7 @@
    "leaf": 540,
    "folio": 3210,
    "file": "plates/v6-n540.jpg",
-   "caption": "BUILDING A SHIP\u2014THE SKELETON"
+   "caption": "BUILDING A SHIP—THE SKELETON"
   },
   {
    "key": "ships",
@@ -1790,6 +1790,24 @@
    "folio": 4410,
    "file": "plates/v8-n580.jpg",
    "caption": "CTX: Hilda Hanway gateway artwork (right half)"
+  },
+  {
+   "key": "comptons",
+   "article": null,
+   "volume": 8,
+   "leaf": 1,
+   "folio": null,
+   "file": "plates/v8-n1.jpg",
+   "caption": "Hilda Hanway gateway artwork (left half) — frontispiece, with Library of Congress copyright-deposit label"
+  },
+  {
+   "key": "comptons",
+   "article": null,
+   "volume": 8,
+   "leaf": 2,
+   "folio": null,
+   "file": "plates/v8-n2.jpg",
+   "caption": "Hilda Hanway gateway artwork (right half) — frontispiece, signed Hilda Hanway"
   }
  ]
 }

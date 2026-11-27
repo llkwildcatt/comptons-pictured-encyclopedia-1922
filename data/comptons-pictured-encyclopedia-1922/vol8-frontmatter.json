@@ -1,0 +1,4045 @@
+{
+ "cover": {
+  "leaf": 0,
+  "folio": null,
+  "description": "Front cover, maroon cloth with gilt title. No readable text survives in the OCR (gilt on cloth does not OCR); identified from the page image.",
+  "verified": true
+ },
+ "frontispiece_gateway": {
+  "leaf_start": 1,
+  "leaf_end": 2,
+  "folio": null,
+  "description": "Two-leaf frontispiece, the Hilda Hanway gateway artwork: leaf 1, a girl at a gate (left half), carrying a pasted Library of Congress copyright-deposit label (seal 'THE LIBRARY OF CONGRESS 1800'; 'Class AG 5'; 'Book.C73'; 'Copyright No. 1922'; 'COPYRIGHT DEPOSIT.'); leaf 2, a boy with books at a gate, a vision of a castle and knights beyond (right half), signed 'Hilda Hanway' bottom right. The same artwork appears again as the end-matter plate on leaves 579-580 (without the deposit label). The front pair is NOT yet on the site as plates (v8-n1/v8-n2); the clean end pair is on site as v8-n579/v8-n580.",
+  "verified": true,
+  "note": "Identified from the page images (n1.jpg, n2.jpg), read 2026-11-27."
+ },
+ "frontispiece_text": {
+  "leaf": 4,
+  "folio": null,
+  "title": "IN CHILDHOOD all the World is new",
+  "text": "IN CHILDHOOD all the World is new. The gates of the mind are swung open, and in the gateway stands a smiling serving man whose name is Curiosity. He beckons every passing fact and fancy and bids them in to the feast where sits that noble lord\u2014Imagination. Here every fact is clothed in vivid colors; every fancy roams free.\n\nThen it is that ideas and ideals are formed. But when Curiosity calls, there must be someone to usher in the guests, or perchance Truth and Falsehood will sit down together at the feast. There must be someone to guide, or Confusion and Disorder will preside at Imagination\u2019s table.\n\nThe Mother, the Father, the School\u2014these are the ushers in the Romantic Adventure of Learning, and their best assistants are good books. As guide, let them take this volume, for such is the service to which it is dedicated.",
+  "verified": true,
+  "note": "Transcribed from the page image (n4.jpg), read 2026-11-27. Set inside a decorative border; the opening word is a decorated initial 'I'."
+ },
+ "frontispiece_picture": {
+  "leaf": 5,
+  "folio": null,
+  "title": "WHEN ALL THE WORLD IS NEW",
+  "caption": "The Romantic Adventure of Learning",
+  "description": "Colour illustration: a woman reading to two children by a lamp and a brick fireplace, books on a table beside them. (Image read 2026-11-27.)",
+  "plate": "v8-n5 (already on site)"
+ },
+ "title_page": {
+  "leaf": 6,
+  "folio": null,
+  "title": "COMPTON'S PICTURED ENCYCLOPEDIA",
+  "volume": "VOLUME 8",
+  "motto": "To inspire ambition, to stimulate the imagination, to provide the inquiring mind with accurate information told in an interesting style, and thus lead into broader fields of knowledge\u2014such is the purpose of this work",
+  "illustration": "Colour illustration, two children with bird-houses, signed 'HAZEL FRAZEE'.",
+  "imprint": "Published By F. E. COMPTON & COMPANY, CHICAGO",
+  "verified": true,
+  "note": "Transcribed from the page image (n6.jpg), read 2026-11-27. No year or editor names appear on the title page."
+ },
+ "copyright": {
+  "leaf": 7,
+  "folio": null,
+  "text": "Copyright, 1922, By F. E. COMPTON & COMPANY. All rights reserved. Copyright in all countries, including the Scandinavian, specifically reserved. PRINTED IN U.S.A. DEC 16 1922. Registration A690600.",
+  "verified": false,
+  "note": "Reconstructed from the leaf-7 OCR word order, which is jumbled on this page; the registration line reads 'DEC 16' and 'A690600' in the OCR. Flagged OCR-reconstructed, not image-verified."
+ },
+ "contents": {
+  "leaves": [
+   8,
+   9
+  ],
+  "title": "TABLE OF CONTENTS of Volume Eight",
+  "heading": "STUDY OUTLINES AND OTHER FEATURES",
+  "entries": [
+   {
+    "title": "MAKING THE MOST OF COMPTON'S",
+    "folio": 3843
+   },
+   {
+    "title": "NATURE STUDY",
+    "folio": 3846
+   },
+   {
+    "title": "GEOGRAPHY",
+    "folio": 3861,
+    "sub": [
+     {
+      "title": "Physical Geography",
+      "folio": 3861
+     },
+     {
+      "title": "Races of Mankind",
+      "folio": 3866
+     },
+     {
+      "title": "North America",
+      "folio": 3869
+     },
+     {
+      "title": "United States",
+      "folio": 3877
+     },
+     {
+      "title": "Canada",
+      "folio": 3889
+     },
+     {
+      "title": "Mexico",
+      "folio": 3891
+     },
+     {
+      "title": "Central America and the West Indies",
+      "folio": 3893
+     },
+     {
+      "title": "South America",
+      "folio": 3895
+     },
+     {
+      "title": "Countries of South America",
+      "folio": 3897
+     },
+     {
+      "title": "Europe",
+      "folio": 3899
+     },
+     {
+      "title": "Great Britain and Ireland",
+      "folio": 3901
+     },
+     {
+      "title": "France",
+      "folio": 3902
+     },
+     {
+      "title": "Belgium and Switzerland",
+      "folio": 3903
+     },
+     {
+      "title": "The Netherlands",
+      "folio": 3904
+     },
+     {
+      "title": "Germany",
+      "folio": 3905
+     },
+     {
+      "title": "Denmark, Sweden, and Norway",
+      "folio": 3906
+     },
+     {
+      "title": "Finland, Esthonia, Latvia, and Lithuania",
+      "folio": 3907
+     },
+     {
+      "title": "Poland",
+      "folio": 3908
+     },
+     {
+      "title": "Austria, Czecho-Slovakia, Hungary, Rumania",
+      "folio": 3909
+     },
+     {
+      "title": "Spain and Portugal",
+      "folio": 3910
+     },
+     {
+      "title": "Italy",
+      "folio": 3911
+     },
+     {
+      "title": "Jugo-Slavia, Bulgaria, Albania, and Greece",
+      "folio": 3912
+     },
+     {
+      "title": "Russia",
+      "folio": 3913
+     },
+     {
+      "title": "Africa",
+      "folio": 3914
+     },
+     {
+      "title": "Divisions of Africa",
+      "folio": 3916
+     },
+     {
+      "title": "Asia",
+      "folio": 3919
+     },
+     {
+      "title": "Asiatic Russia and Allied Territory",
+      "folio": 3921
+     },
+     {
+      "title": "Japan and China",
+      "folio": 3922
+     },
+     {
+      "title": "Indo-China and Malay Peninsula",
+      "folio": 3923
+     },
+     {
+      "title": "India, Persia, and Afghanistan",
+      "folio": 3924
+     },
+     {
+      "title": "Divisions of Southwestern Asia",
+      "folio": 3925
+     },
+     {
+      "title": "East Indies",
+      "folio": 3926
+     },
+     {
+      "title": "Australia, New Zealand, and Pacific Islands",
+      "folio": 3927
+     },
+     {
+      "title": "Polar Regions",
+      "folio": 3928
+     }
+    ]
+   },
+   {
+    "title": "BIOLOGY",
+    "folio": 3935,
+    "sub": [
+     {
+      "title": "Botany",
+      "folio": 3937
+     },
+     {
+      "title": "Zo\u00f6logy",
+      "folio": 3944
+     }
+    ]
+   },
+   {
+    "title": "HISTORY",
+    "folio": 3953,
+    "sub": [
+     {
+      "title": "Ancient History",
+      "folio": 3953
+     },
+     {
+      "title": "The Dawn of Civilization",
+      "folio": 3953
+     },
+     {
+      "title": "The Greeks",
+      "folio": 3955
+     },
+     {
+      "title": "Rise and Fall of the Roman Empire",
+      "folio": 3956
+     },
+     {
+      "title": "Medieval History",
+      "folio": 3957
+     },
+     {
+      "title": "Modern History",
+      "folio": 3960
+     },
+     {
+      "title": "Renaissance and Reformation",
+      "folio": 3960
+     },
+     {
+      "title": "Period of Civil Strife",
+      "folio": 3961
+     },
+     {
+      "title": "Struggle for Power and Possessions",
+      "folio": 3962
+     },
+     {
+      "title": "Rise of Prussia and Russia",
+      "folio": 3963
+     },
+     {
+      "title": "French Revolution and Napoleon",
+      "folio": 3963
+     },
+     {
+      "title": "Industrial Revolution",
+      "folio": 3964
+     },
+     {
+      "title": "Europe in the 19th Century",
+      "folio": 3965
+     },
+     {
+      "title": "Awakening of the Far East",
+      "folio": 3966
+     },
+     {
+      "title": "Europe Before the World War",
+      "folio": 3967
+     },
+     {
+      "title": "World War and Its Consequences",
+      "folio": 3967
+     },
+     {
+      "title": "United States History",
+      "folio": 3969
+     },
+     {
+      "title": "Canadian History",
+      "folio": 3975
+     }
+    ]
+   },
+   {
+    "title": "MYTHOLOGY",
+    "folio": 3981,
+    "sub": [
+     {
+      "title": "Greek and Roman Mythology",
+      "folio": 3981
+     },
+     {
+      "title": "Norse and Teutonic Mythology",
+      "folio": 3984
+     }
+    ]
+   },
+   {
+    "title": "SOCIAL SCIENCES",
+    "folio": 3987,
+    "sub": [
+     {
+      "title": "Sociology",
+      "folio": 3987
+     },
+     {
+      "title": "Economics",
+      "folio": 3989
+     },
+     {
+      "title": "Political Science (Civics)",
+      "folio": 3990
+     },
+     {
+      "title": "Education",
+      "folio": 3993
+     }
+    ]
+   },
+   {
+    "title": "HOME ECONOMICS",
+    "folio": 3995
+   },
+   {
+    "title": "PICTURE STORY OF DRESS",
+    "folio": 3997
+   },
+   {
+    "title": "PICTURE STORY OF HOUSES",
+    "folio": 3998
+   },
+   {
+    "title": "PICTURE STORY OF TRANSPORTATION",
+    "folio": 3998
+   },
+   {
+    "title": "PHYSIOLOGY, HYGIENE, AND MEDICINE",
+    "folio": 3998
+   },
+   {
+    "title": "LANGUAGE AND LITERATURE",
+    "folio": 4001
+   },
+   {
+    "title": "FINE ARTS",
+    "folio": 4004,
+    "sub": [
+     {
+      "title": "Architecture",
+      "folio": 4004
+     },
+     {
+      "title": "Sculpture",
+      "folio": 4006
+     },
+     {
+      "title": "Painting",
+      "folio": 4008
+     },
+     {
+      "title": "Music",
+      "folio": 4010
+     }
+    ]
+   },
+   {
+    "title": "AGRICULTURE",
+    "folio": 4015
+   },
+   {
+    "title": "INDUSTRIES AND APPLIED SCIENCE",
+    "folio": 4019
+   },
+   {
+    "title": "BOOKS THAT TELL HOW TO DO THINGS",
+    "folio": 4024
+   },
+   {
+    "title": "THE HOW AND WHY OF THINGS",
+    "folio": 4025
+   },
+   {
+    "title": "PHYSICAL SCIENCES",
+    "folio": 4027,
+    "sub": [
+     {
+      "title": "Physics",
+      "folio": 4027
+     },
+     {
+      "title": "Chemistry",
+      "folio": 4038
+     },
+     {
+      "title": "Astronomy",
+      "folio": 4045
+     }
+    ]
+   },
+   {
+    "title": "MODERN EDUCATION AND THE PROBLEM-PROJECT",
+    "folio": 4048,
+    "sub": [
+     {
+      "title": "Problem Method in Geography",
+      "folio": 4058
+     },
+     {
+      "title": "Problem Method in English",
+      "folio": 4062
+     },
+     {
+      "title": "Project Method in History",
+      "folio": 4066
+     }
+    ]
+   },
+   {
+    "title": "THE FACT-INDEX",
+    "folio": 4069
+   }
+  ],
+  "verified": true,
+  "note": "Transcribed from the page images (n8.jpg, n9.jpg), read 2026-11-27. The contents list is the authority for the section split: it lists PICTURE STORY OF HOUSES and PICTURE STORY OF TRANSPORTATION as separate entries, so the outlines carry 19 sections, not 18."
+ },
+ "making_the_most": {
+  "title": "Making the Most of Compton's",
+  "leaves": [
+   10,
+   11,
+   12
+  ],
+  "folios": [
+   3843,
+   3844,
+   3845
+  ],
+  "text": "AN ENCYCLOPEDIA prepared, as this one has been, with a new vision and a new purpose is capable of serving in many widely different and many unexpected ways. The extent of this service does not, however, depend solely upon the quality and scope of the work accomplished by the editors and publishers. It depends also upon you\u2014upon the intelligence with which you use the instruments that have been placed in your hands. It will be profitable therefore to examine briefly the nature of these instruments, and to determine how they may be made to yield the maximum service.\n\nThe main text and the illustrations need little explanation. The articles are arranged, of course, in alphabetical order, and the alphabetical guide words are printed in the top corners of each page. The longest and most important articles begin in nearly every case with special headings extending across both columns. These headings are designed to catch the eye and to set forth at a glance the spirit and significance of the subject. The illustrations will always be found directly associated with the articles they illustrate. Too much emphasis cannot be placed upon the importance of reading closely the text which accompanies and explains the pictures. This text, with a few necessary exceptions, does not repeat information already given in the article, but consists of additional information of the utmost value.\n\nThe chief distinguishing feature of Compton\u2019s Pictured Encyclopedia is the fact that its articles are written in a style so vivid and interesting that they may be enjoyed as you would enjoy the stories in a magazine. In keeping with the purpose to make the encyclopedia a library of \u201cgood reading\u201d as well as a work of reference, lists of the most important articles will be found at the beginning of each volume under the title \u201cHere and There.\u201d Make use of those lists when you pick up the volumes for casual reading; they will help you to select the \u201cfact-story\u201d suited to your inclination of the moment.\n\nAs you thumb through the pages of the main text, you will notice that there are comparatively few of the so-called \u201cdefinition\u201d articles, such articles as undertake in four or five lines to define subjects considered relatively unimportant. You will notice also that there are none at all of the so-called \u201cdummy entries,\u201d in which the name of the subject appears merely to direct you to some other article where it is treated, as for instance: \u201cANTHROPOMETRY. See Anthropology.\u201d These devices, so common in the older works of reference, not only consumed an enormous amount of space, but proved unsatisfactory to the reader. The \u201cdefinition\u201d articles rarely contained an adequate amount of information, and what they did have usually had to be repeated elsewhere in connection with some larger related subject. Thus a subject like \u201cCombustion\u201d would be briefly defined under that name, then necessarily referred to again under \u201cFire.\u201d The \u201cdummy\u201d entries, on the other hand, contributed absolutely no information and resulted in annoyance and loss of time to the student or reader.\n\nThe Value of Combined Information\n\nCompton\u2019s Pictured Encyclopedia abandoned at the outset this ancient system. The result has been twofold: first, so much space was saved by doing away with duplication that the editors were able to include vastly more information in the compass of the work than would appear possible, judging by former standards; second, and even more important, the minor subjects were put where they belong\u2014that is, they were incorporated in those larger subjects of which they form a part, and which provide the background necessary to bring out their meaning and relative importance. Thus, no separate article is devoted to the process of \u201cOsmosis.\u201d A mere abstract explanation of this term might consume more than a column, and still leave the reader somewhat in doubt as to its true meaning and importance. But in the article on \u201cPlant Life,\u201d the process of Osmosis is not only defined and described, but its vital significance in Nature is brought out by picture and text in a manner to attract interest and make a lasting impression. In this way the \u201cPlant Life\u201d article helps to make Osmosis clear and Osmosis in turn contributes to the understanding of one of the most important features of Plant Life.\n\nThe \u201cdefinition\u201d articles and \u201cdummy entries\u201d were essential to the old type of American encyclopedias, because they did not have adequate indexing systems. If a reader was to find a subject at all, the name, at least, had to be included in its alphabetical place in the text, even if the proper treatment of that subject was given elsewhere. Obviously, no encyclopedia, no matter how large, can list in its main text all the subjects and names which a reader might seek. You would, for instance, look in vain through most encyclopedias, even the largest, for an entry on \u201cMary Ball,\u201d and unless the encyclopedia carried an index you might never find out that this was the maiden name of George Washington\u2019s mother. Latin names of plants and animals are constantly occurring in scientific texts without their English equivalents, yet many of the very commonest ones, such as Musca domestica (the housefly) could not be found in the largest encyclopedias without an index.\n\nThe Value of the Fact-Index\n\nThe editors of Compton\u2019s Pictured Encyclopedia saw from the outset that an adequate index would not only permit them to save space and gain interest and emphasis by a suitable combination of related subjects into longer articles, but also that it would make readily accessible to the reader every detail of information in the whole work, whether in the text or in the pictures. By close study and tests they determined that casual references could in the long run be found much more quickly by using an index than by searching through the text. They went further than this\u2014they decided to give the index somewhat the character of a dictionary in which would be provided brief definitions of unusual words and their pronunciation, short biographical summaries, condensed geographical information, r\u00e9sum\u00e9s of the chief events in the history of important countries, and countless other informative details\u2014all in the interest of saving time and trouble.\n\nThe result is the Fact-Index at the end of the encyclopedia. This marks an important step forward in the preparation of reference works. No enterprise of such scope, of such variety of usefulness, of such completeness has ever before been carried out in connection with an encyclopedia. With its aid you are able to extract the full value from every word of the text.\n\nThe moral of this lesson is obvious: ALWAYS USE THE FACT-INDEX WHEN YOU ARE LOOKING FOR A DEFINITE REFERENCE. If you want to know quickly what are the native races of Africa, do not read through the whole article on Africa, but turn to \u201cAfrica\u201d in the Fact-Index, and there you will find the subdivision \u201cnative races,\u201d with page numbers telling you exactly where the information is to be found. Even if you are interested in Africa as a whole it is better to go to the Fact-Index, for it will give you many page references to information in other articles outside of the Africa article. By this means, if you wish, you can read all there is about Africa in the whole encyclopedia.\n\nBecome familiar with the technical details of the Fact-Index, with the simple abbreviations used in it, with the system of subdividing the larger entries for the reader\u2019s convenience. All of it is very clear and easily understood, and the more you use it, the more it will yield you. Once you form the \u201cindex habit,\u201d you will be surprised how easily you can run down information. It is an old and true saying that \u201chalf of all education lies in knowing how to use good books.\u201d\n\nThe Use of the Study Outlines\n\nWe have seen that the Fact-Index is the best instrument for bringing out details of information. It splits up the text and lists each item, large or small, by itself where you can readily find it. The Study Outlines do exactly the opposite. They gather up all the information in the encyclopedia into great groups\u2014the groups which form the main divisions of human knowledge. There this information is listed and arranged in logical order, in the order which seems best adapted for developing a sound knowledge of the whole subject. The Geography Outline, for instance, brings together into a single consecutive chain all the material of Geography contained in Compton\u2019s Pictured Encyclopedia, fitting each part into the other, link by link, until the whole of Geography has been surveyed.\n\nThese Outlines, however, are much more than mere \u201cguides to reading,\u201d much more than mere titles of articles or of portions of articles arranged in table form. A glance through them will show you that their subdivisions consist for the most part of sentences or phrases, of brief notes and explanations, which serve to bring out the significance of each step and its relations to what precedes and what follows. In other words, they are skilled teachers in print. It would be profitable, indeed, merely to read through many of these Outlines, even if you did not look up a single page reference, for this would give you a rapid and quite intelligible survey of the subject in question. On the other hand, they are so arranged that those interested in only a single section of a big field of study may use that section independently of what precedes or follows.\n\nThe Outlines may be used for independent home study by boys and girls or by adults; they may be used as guides in collateral reading or review work in connection with school courses; or they may be used by teachers to supplement and fill out their classroom outlines. As far as possible, they have been prepared along the lines of the most widely approved modern school methods, which seek to develop the practical significance and application of the various branches of learning. In connection with \u201cproblem-project\u201d work, they will prove particularly valuable.\n\nAttached to each of the Outlines will be found lists of books for supplementary reading. These bibliographies are graded, as far as the subject permits, according to the age of the readers. The divisions marked \u201cHigh School and After\u201d contain for the most part books which are equally suitable for adult reading. The lists entitled \u201cPicture Aids\u201d contain the most important pictures to be found in the encyclopedia on each subject. The departments called \u201cInterest-Questions\u201d are intended to serve as stimulants to lead into the pages of the text, and are not in any sense meant to be examination questions. Parents will find that these questions, as well as the pictures, will arouse the interest of children who otherwise might be disinclined to reading of any sort.\n\nIn closing, let us emphasize again the importance of becoming familiar with and using all of these instruments we have described. Each one of them was carefully designed for its purpose, each one of them serves to round out some important feature in \u201cThe Great Adventure of Learning.\u201d Call them constantly to your service. For every investment of time and energy you make in this way, you will be repaid tenfold.",
+  "words": 1887,
+  "illustrations": [
+   {
+    "leaf": 10,
+    "caption": "A Library of Good Reading"
+   },
+   {
+    "leaf": 10,
+    "caption": "A Key to Systematic Study"
+   },
+   {
+    "leaf": 10,
+    "caption": "An Inexhaustible Mine of Facts"
+   },
+   {
+    "leaf": 11,
+    "caption": "A Universal Picture Gallery"
+   },
+   {
+    "leaf": 11,
+    "caption": "A Guide to the Best Books"
+   },
+   {
+    "leaf": 12,
+    "caption": "A Valuable Assistant in the Classroom"
+   }
+  ],
+  "verified": true,
+  "note": "Transcribed from the page images (n10.jpg, n11.jpg, n12.jpg), read 2026-11-27. The three leaves are illustrated throughout and the text wraps around the pictures; the automated OCR interleaves the picture captions with the body text, so the transcription here is from the images. Captions are listed separately, not inlined in the text."
+ },
+ "fact_index_title": {
+  "leaf": 236,
+  "folio": 4069,
+  "folio_interpolated": true,
+  "text": "The EASY REFERENCE FACT-INDEX of COMPTON'S PICTURED ENCYCLOPEDIA",
+  "verified": false,
+  "note": "Leaf 236 has no OCR folio detection; folio 4069 is interpolated. Text from the djvu OCR."
+ },
+ "editors_note": {
+  "leaf": 237,
+  "folio": 4070,
+  "title": "Editor's Note",
+  "text": "EVERY user of a Compton's Pictured Encyclopedia should form the habit of first turning to the Fact-Index when in search of specific information. This is a miniature work of reference in itself, presenting the essential facts about a large proportion of the entries which it contains. When additional information is presented in the preceding volumes, the page numbers (in black-face type) show the reader where to turn.\n\nThe first reference in every case where page numbers are given is to the most important place of treatment, with other general references following. Thus, under the entry \u201cAppalachian Mts.,\u201d the first reference is to the article bearing that heading in Volume I, followed by a reference to the article \u201cUnited States,\u201d and then by a reference to the section of the Study Outlines which enumerates the various divisions of the Appalachians. Then follow various scattered references, arranged alphabetically under appropriate subheadings, such as \u201ceffect on climate,\u201d \u201cgeological history,\u201d \u201cminerals,\u201d etc.\n\nThe arrangement of subheadings is always alphabetical, except in the case of most major historical and biographical entries. In these the chronological order is followed.\n\nPictures have not been indexed where they appear on the same pages with text references, except for purposes of special emphasis or to prevent confusion. The word picture in an entry does not necessarily mean a picture of the subject of the entry; often it rather calls attention to the matter contained in the accompanying picture-text. For example, under the heading \u201cRawlinson\u201d there is a brief sketch of the man, with a reference to the picture of the Behistun Rock on page 2739, under which appears a description of how Sir Henry Rawlinson discovered this rock and deciphered the inscriptions on it.\n\nThe pronunciations given are those preferred by the best and most recent authorities; alternative pronunciations are indicated only where usage is equally divided. For foreign names the native pronunciation is given except where the English pronunciation has become thoroughly established, as in \u201cParis,\u201d \u201cBarcelona,\u201d \u201cSeine.\u201d\n\nPopulations are given in round numbers, except for places in the United States, where the figures are those of the 1920 census. Distances between points are map distances, not distances by railroad.",
+  "verified": true,
+  "note": "Transcribed from the page image (n237.jpg), read 2026-11-27."
+ },
+ "special_abbreviations": {
+  "leaf": 237,
+  "folio": 4070,
+  "title": "Special Abbreviations Used in this Fact-Index",
+  "entries": [
+   [
+    "Amer.",
+    "America, American"
+   ],
+   [
+    "anc.",
+    "ancient"
+   ],
+   [
+    "b.",
+    "born"
+   ],
+   [
+    "Bapt.",
+    "Baptist"
+   ],
+   [
+    "Belg.",
+    "Belgian"
+   ],
+   [
+    "Brit.",
+    "British"
+   ],
+   [
+    "cap.",
+    "capital"
+   ],
+   [
+    "Cath.",
+    "Catholic"
+   ],
+   [
+    "cent.",
+    "century, central"
+   ],
+   [
+    "Cong.",
+    "Congregational"
+   ],
+   [
+    "d.",
+    "died"
+   ],
+   [
+    "dept.",
+    "department"
+   ],
+   [
+    "dist.",
+    "district"
+   ],
+   [
+    "e.",
+    "east"
+   ],
+   [
+    "Egypt.",
+    "Egyptian"
+   ],
+   [
+    "Eng.",
+    "English"
+   ],
+   [
+    "Episc.",
+    "Episcopal"
+   ],
+   [
+    "Fr.",
+    "French"
+   ],
+   [
+    "Ger.",
+    "German"
+   ],
+   [
+    "Gk.",
+    "Greek"
+   ],
+   [
+    "govt.",
+    "government"
+   ],
+   [
+    "Gt. Brit.",
+    "Great Britain"
+   ],
+   [
+    "isl.",
+    "island"
+   ],
+   [
+    "Ital.",
+    "Italian"
+   ],
+   [
+    "l.",
+    "lake"
+   ],
+   [
+    "Luth.",
+    "Lutheran"
+   ],
+   [
+    "Meth.",
+    "Methodist"
+   ],
+   [
+    "Mex.",
+    "Mexican"
+   ],
+   [
+    "mfg.",
+    "manufacturing"
+   ],
+   [
+    "mfrs.",
+    "manufactures"
+   ],
+   [
+    "mt.",
+    "mountain"
+   ],
+   [
+    "myth.",
+    "mythology"
+   ],
+   [
+    "pop.",
+    "population"
+   ],
+   [
+    "Port.",
+    "Portuguese"
+   ],
+   [
+    "pres.",
+    "president."
+   ],
+   [
+    "Presb.",
+    "Presbyterian"
+   ],
+   [
+    "r.",
+    "river"
+   ],
+   [
+    "rev.",
+    "revolution, revolutionary"
+   ],
+   [
+    "Rom.",
+    "Roman"
+   ],
+   [
+    "r.r.",
+    "railroad"
+   ],
+   [
+    "Rus.",
+    "Russian"
+   ],
+   [
+    "s.",
+    "south"
+   ],
+   [
+    "sec.",
+    "secretary"
+   ],
+   [
+    "Span.",
+    "Spanish"
+   ],
+   [
+    "sq. mi.",
+    "square miles"
+   ],
+   [
+    "U., Univ.",
+    "University"
+   ],
+   [
+    "w.",
+    "west"
+   ],
+   [
+    "yrs.",
+    "years"
+   ]
+  ],
+  "trailer": "(For other abbreviations, see page 4072.)",
+  "verified": true,
+  "note": "Transcribed from the page image (n237.jpg), read 2026-11-27. The list is in 3 columns on the page; entries are given here in reading order (down the columns, left to right)."
+ },
+ "abbreviations_list": {
+  "leaves": [
+   239,
+   240,
+   241
+  ],
+  "folios": [
+   4072,
+   4073,
+   4074
+  ],
+  "title": "LIST OF ABBREVIATIONS",
+  "pairs": [
+   {
+    "abbr": "A",
+    "expansion": "argon.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.A.A.",
+    "expansion": "American Automo\u00ac bile Association.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.A.U.",
+    "expansion": "Amateur Athletic Union.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.B.",
+    "expansion": "Artium Baccalaureus,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.",
+    "expansion": "V.M. Bachelor of Arts ; able- bodied seaman.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.C.",
+    "expansion": "alternating current.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "accel.",
+    "expansion": "accelerando, with in\u00ac creasing rapidity (music).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.D.",
+    "expansion": "Anno Domini, in the",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "E.",
+    "expansion": "year of our Lord.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "adag.",
+    "expansion": "adagio, slow.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.D.C.",
+    "expansion": "aide-de-camp.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "e.g.ad lib.",
+    "expansion": "a d libitum, at pleasure.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.E.F.",
+    "expansion": "American Expedi\u00ac",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "E.",
+    "expansion": "M.F. tionary Forces.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "aet.",
+    "expansion": "aetatis, in the year of his age.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.F.A.M.",
+    "expansion": "Ancient Free and Accepted Masons.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.V.O.",
+    "expansion": "A.F.L. \u2014 American Federation of Labor.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ag",
+    "expansion": "silver.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A1",
+    "expansion": "aluminum.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ala.",
+    "expansion": "Alabama.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.Alas.A.M.",
+    "expansion": "\u2014 ante Alaska. meridiem, before noon; Artium Magister, Master of Arts.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.M.A.",
+    "expansion": "American Medical",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.",
+    "expansion": "Association.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "f.A.M.D.G.",
+    "expansion": "Ad majorem Dei",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "b.",
+    "expansion": "t.u. gloriam, \u201cTo the greater glory of God.\u201d Motto of",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.",
+    "expansion": "Y.P.U. the Jesuits.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Anon.",
+    "expansion": "anonymous.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.O.F.",
+    "expansion": "Ancient Order of For- Testers.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.O.H.",
+    "expansion": "Ancient Order of Hi\u00ac bernians.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.O.U.W.",
+    "expansion": "Ancient Order of",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "c.",
+    "expansion": ", United Workmen.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Apr.",
+    "expansion": "April.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "apud",
+    "expansion": "in writings of.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "aq.",
+    "expansion": "aqua, water.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "f.o.b.A.R.A.",
+    "expansion": "Associate of the Royal Academy.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.R.A.M.",
+    "expansion": "Associate of the Royal Academy of Music.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ariz.",
+    "expansion": "Arizona.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ark.",
+    "expansion": "Arkansas.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "As",
+    "expansion": "arsenic.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Au",
+    "expansion": "gold.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.R.S.A.U.C.",
+    "expansion": "\u2014 ab urbe condita, from the founding of Rome.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Aug.",
+    "expansion": "August.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.V.",
+    "expansion": "Authorized Version (of the Bible).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ave.",
+    "expansion": "Avenue.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "A.W.O.L.",
+    "expansion": "absent without",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "g.",
+    "expansion": "leave (army slang).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "G.A.R.B",
+    "expansion": "boron.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.A.",
+    "expansion": "Baccalaureus Artium, Bachelor of Arts.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ba",
+    "expansion": "barium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Bart., Bt.",
+    "expansion": "Baronet. \u2014",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "bbl.",
+    "expansion": "barrel.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.C.",
+    "expansion": "before Christ ; British Columbia.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.C.E.",
+    "expansion": "Bachelor of Civil Engineering.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.C.L.",
+    "expansion": "Bachelor of Civil Law.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.D.",
+    "expansion": "Baccalaureus Divini- tatis. Bachelor of Divinity.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.D.S.",
+    "expansion": "Bachelor of Dental Surgery.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Be",
+    "expansion": "beryllium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Bi",
+    "expansion": "bismuth.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.Litt",
+    "expansion": "Baccalaureus Lit- terarum. Bachelor of Lit\u00ac erature.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.LL.",
+    "expansion": "Baccalaureus Legum, Bachelor of Laws.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.M.",
+    "expansion": "Baccalaureus Medi- cinae. Bachelor of Medi\u00ac cine.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.M.E.",
+    "expansion": "-Bachelor of Mechan\u00ac ical Engineering.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.Mus.",
+    "expansion": "Baccalaureus Mus- icae. Bachelor of Music.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.Ph.",
+    "expansion": "Baccalaureus Philo- sophiae, Bachelor of Phil\u00ac osophy.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.P.O.E.",
+    "expansion": "Benevolent and Protective Order of Elks.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Br",
+    "expansion": "bromine.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.S.",
+    "expansion": "-Bachelor in Surgery; Bachelor of Science.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.Sc.",
+    "expansion": "Baccalaureus Scien- tiae, Bachelor of Science.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "b.t.u.",
+    "expansion": "British thermal unit.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "bu., bus.",
+    "expansion": "bushel.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "B.Y.P.U.",
+    "expansion": "Baptist Young People\u2019s Union.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.",
+    "expansion": "centum ; one hundred ; centigrade ; carbon.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cir.",
+    "expansion": "circa, circum, about.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ca",
+    "expansion": "calcium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Calif.",
+    "expansion": "California.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Can.",
+    "expansion": "Canada.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cantab.",
+    "expansion": "Cantabrigiensis, of Cambridge.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.B.",
+    "expansion": "Companion of the Bath.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cb",
+    "expansion": "columbium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "c.c.",
+    "expansion": "cubic centimeter.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cd",
+    "expansion": "cadmium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.E.",
+    "expansion": "Civil Engineer ; Chris\u00ac tian Endeavor Society ; Church of England.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ce",
+    "expansion": "cerium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cf.",
+    "expansion": "confer, compare.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "ch., chap.",
+    "expansion": "chapter.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Chron.",
+    "expansion": "Chronicles.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.I.",
+    "expansion": "Order of the Crown of India.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.I.E.",
+    "expansion": "Companion of the Order of the Indian Empire.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cl",
+    "expansion": "chlorine.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cm.",
+    "expansion": "centimeter.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.M.G.",
+    "expansion": "Companion of the Order of St. Michael and",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "St.",
+    "expansion": "George.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.O.",
+    "expansion": "Commanding Officer. fall; me, yet, fern, thgre; 4072",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Co.",
+    "expansion": "company ; county ; cobalt,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "c/o",
+    "expansion": "care of.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.O.D.",
+    "expansion": "cash on delivery, collect on delivery.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Col.",
+    "expansion": "Colonel ; Colossians.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Colo.",
+    "expansion": "Colorado.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Conn.",
+    "expansion": "Connecticut.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cor.",
+    "expansion": "Corinthians,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cp.",
+    "expansion": "compare.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.P.A.",
+    "expansion": "Certified Public Ac\u00ac countant.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cr.",
+    "expansion": "credit ; chromium,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cres.",
+    "expansion": "crescendo, gradual increase of tone (music).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cs",
+    "expansion": "caesium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.S.I.",
+    "expansion": "Companion of the Star of India,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cts.",
+    "expansion": "cents.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Cu",
+    "expansion": "copper,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cu.",
+    "expansion": "cubic.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.V., Com.Ver.",
+    "expansion": "Common Version (of the Bible).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "C.V.O.",
+    "expansion": "-Commander of the Royal Victorian Order.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "cwt.",
+    "expansion": "hundredweight.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.",
+    "expansion": "five hundred.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "d.",
+    "expansion": "denarius, a penny.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Dak.",
+    "expansion": "Dakota.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Dan.",
+    "expansion": "Daniel.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.A.R.",
+    "expansion": "Daughters of the American Revolution.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.C.",
+    "expansion": "da capo, from the be\u00ac ginning; District of Co\u00ac lumbia ; direct current.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.C.L.",
+    "expansion": "Doctor of Civil Law.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.Cn.L.",
+    "expansion": "Doctor of Canon Law.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.D.",
+    "expansion": "Divinitatis Doctor, Doctor of Divinity.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.D.D.",
+    "expansion": "Dat, donat, dicat- que, \u201cHe gives, presents, and dedicates.\u201d Often writ\u00ac ten after the name of a donor on a flyleaf.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.D.S.",
+    "expansion": "Doctor of Dental Surgery.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Del.",
+    "expansion": "Delaware. \u2022",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.Eng.",
+    "expansion": "Doctor of Engineer\u00ac ing.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Deut.",
+    "expansion": "Deuteronomy,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "dim.",
+    "expansion": "diminuendo, gradual decrease of tone (music).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.Litt.",
+    "expansion": "Doctor of Liter\u00ac ature.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "dm.",
+    "expansion": "decimeter.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.M.D.",
+    "expansion": "Doctor of Dental Medicine.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.Mus.",
+    "expansion": "D odor Musicae, Doctor of Music,",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "do.",
+    "expansion": "ditto, the same.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Dr.",
+    "expansion": "Doctor ; debtor.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.S.",
+    "expansion": "dal segno, from the sign ; Doctor of Science.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.S.C.",
+    "expansion": "Distinguished Serv\u00ac ice Cross.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.Sc.",
+    "expansion": "Doctor of Science.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.S.M.",
+    "expansion": "Distinguished Serv\u00ac ice Medal.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.S.O.",
+    "expansion": "Distinguished Serv\u00ac ice Order.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.T.",
+    "expansion": "D odor Theologiae, Doctor of Theology.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.V.",
+    "expansion": "Deo volente, God will\u00ac ing.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "D.V.M.",
+    "expansion": "Doctor of Veter\u00ac inary Medicine.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "dwt.",
+    "expansion": "pennyweight.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Dy",
+    "expansion": "dysprosium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "E.",
+    "expansion": "East.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Eccles.",
+    "expansion": "Ecclesiastes.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "E.E.",
+    "expansion": "Electrical Engineer.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "e.g.",
+    "expansion": "exempli gratia, for example.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "E.M.",
+    "expansion": "Mining Engineer.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "E.M.F.",
+    "expansion": "electromotive force.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Eph.",
+    "expansion": "Ephesians.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Er",
+    "expansion": "erbium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Esq.",
+    "expansion": "Esquire.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "et al.",
+    "expansion": "e t alibi, and else\u00ac where ; et alii, and others.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "etc.",
+    "expansion": "et cetera, and so on.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "et seq., sq., or sqq.",
+    "expansion": "et se- quentes, et sequentia, and the following.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Eu",
+    "expansion": "europium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Exod.",
+    "expansion": "Exodus.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ezek.",
+    "expansion": "Ezekiel.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.",
+    "expansion": "Fahrenheit ; fluorine.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "f.",
+    "expansion": "forte, loud ; franc (French money) ; follow\u00ac ing (page).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.A.",
+    "expansion": "Field Artillery.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.A.M.",
+    "expansion": "Free and Accepted Masons.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.B.A.",
+    "expansion": "Fellow of the Brit\u00ac ish Academy.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Fe",
+    "expansion": "iron.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Feb.",
+    "expansion": "February.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "ff.",
+    "expansion": "fortissimo, very loud ; folios; following (pages).",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "fl.",
+    "expansion": "flourished.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Fla.",
+    "expansion": "Florida.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "f.o.b.",
+    "expansion": "free on board.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.R.C.P.",
+    "expansion": "Fellow of Royal College of Physicians.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.R.C.S.",
+    "expansion": "Fellow of Royal College of Surgeons.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.R.G.S.",
+    "expansion": "Fellow of Royal Geographical Society.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Fri.",
+    "expansion": "Friday.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "F.R.S.",
+    "expansion": "Fellow of the Royal Society.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ft.",
+    "expansion": "Fort.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "ft.",
+    "expansion": "feet, foot.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "g.",
+    "expansion": "gram.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Ga.",
+    "expansion": "Georgia ; gallium.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "Gal.",
+    "expansion": "Galatians; gallon",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "G.A.R.",
+    "expansion": "Grand Army of the Republic.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "G.C.B.",
+    "expansion": "Grand Cross of the Bath.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "G.C.D.",
+    "expansion": "greatest common divisor.",
+    "leaf": 239,
+    "folio": 4072
+   },
+   {
+    "abbr": "G.C.H.",
+    "expansion": "Grand Cross of Hanover.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "G.C.I.E.",
+    "expansion": "Grand Commander of the Indian Empire.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "G.C.L.H.",
+    "expansion": "Grand Cross of the Legion of Honor.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "G.C.M.G.",
+    "expansion": "Grand Cross of",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "St.",
+    "expansion": "Michael and St. George.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "G.C.S.I.",
+    "expansion": "Grand Commander of the Star of India.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "G.C.V.O.",
+    "expansion": "Grand Commander of the Victorian Order.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Gd",
+    "expansion": "gadolinium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ge",
+    "expansion": "germanium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Gen.",
+    "expansion": "General ; Genesis.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "G1",
+    "expansion": "glucinum.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "J.C.D.G.M.",
+    "expansion": "Grand Master.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "G.O.P.",
+    "expansion": "Grand Old Party (Republican Party, U. S.).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Gov .",
+    "expansion": "Governor.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "H",
+    "expansion": "hydrogen.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "J.U.D.",
+    "expansion": "Hah. \u2014 Habakkuk.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Hag.",
+    "expansion": "Haggai.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "He",
+    "expansion": "helium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Heb.",
+    "expansion": "Hebrews (Book of).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Hg",
+    "expansion": "mercury,",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "hhd.",
+    "expansion": "hogshead.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "H.I.",
+    "expansion": "Hawaiian Islands.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "H.l.H.",
+    "expansion": "His (or Her) Impe\u00ac",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.",
+    "expansion": "B. rial Highness.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "H.I.M.",
+    "expansion": "His (or Her) Impe\u00ac rial Maiesty.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "H.M.S.",
+    "expansion": "His (or Her) Maj\u00ac esty\u2019s Ship (or Service).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Hon.",
+    "expansion": "Honorable, honorary.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Hos.",
+    "expansion": "Hosea.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "h.p.",
+    "expansion": "horse-power.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "H.R.",
+    "expansion": "H o u s e of Represen\u00ac tatives,",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "hr.",
+    "expansion": "hour.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "H.R.E.M.V.O.",
+    "expansion": "Holy Roman Em\u00ac pire.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I",
+    "expansion": "iodine.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.Ia.",
+    "expansion": "Iowa.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "ib., ibid.",
+    "expansion": "ibidem, in the same place.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.C.S.",
+    "expansion": "Indian Civil Service,",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "id.",
+    "expansion": "idem, the same.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ida.",
+    "expansion": "Idaho.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "i.e.",
+    "expansion": "id est, that is.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.H.S.",
+    "expansion": "lesus Hominum Sal\u00ac vator, Jesus, the Savior of Men.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ill., Ills.",
+    "expansion": "Illinois.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "In",
+    "expansion": "indium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "in.",
+    "expansion": "inch, inches.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "kl.inc.",
+    "expansion": "incorporated, inclusive.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "incog.",
+    "expansion": "incognito.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ind.",
+    "expansion": "Indiana,",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "inf.",
+    "expansion": "infra, below.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "km.I.N.R.I.",
+    "expansion": "lesus Nazarenus, Rex Iudaeorum, Jesus of Nazareth, King of the Jews.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "inst.",
+    "expansion": "instante mense, this month.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.O.C.I.",
+    "expansion": "Imperial Order of",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.O.G.T.",
+    "expansion": "-Independent Order of Good Templars.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.O.O.F.",
+    "expansion": "Independent Order of Odd Fellows.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.O.U.",
+    "expansion": "I owe you.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ir",
+    "expansion": "iridium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Isa.",
+    "expansion": "Isaiah.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.S.O.",
+    "expansion": "Imperial Service Order.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "I.W.W.",
+    "expansion": "Industrial Workers of the World.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Jan.",
+    "expansion": "January.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Jas.",
+    "expansion": "James.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "J.C.D.",
+    "expansion": "Juris Civilis Doctor, Doctor of Civil Law.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "J.D.",
+    "expansion": "Juris Doctor, Doctor of Law.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Josh.",
+    "expansion": "Joshua.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "J.P.",
+    "expansion": "Justice of the Peace.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Jr.",
+    "expansion": "Junior.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "J.U.D.",
+    "expansion": "J u r i s Utriusque Doctor, Doctor of both Civil and Canon Law.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Judg.",
+    "expansion": "Judges.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K",
+    "expansion": "potassium ; karat.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Kan., Kans..Kas.",
+    "expansion": "Kansas.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.B.",
+    "expansion": "Knight of the Bath; King\u2019s Bench.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.C.",
+    "expansion": "Knights of Columbus; King\u2019s Counsel.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.C.B.",
+    "expansion": "Knight Commander of the Bath.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.C.H.",
+    "expansion": "Knight Commander of Hanover.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.C.I.E.",
+    "expansion": "Knight Command\u00ac er of the Indian Empire.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.C.M.G.",
+    "expansion": "Knight Command\u00ac er of St. Michael and St. George.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.C.S.l.",
+    "expansion": "Knight Command\u00ac er of the Star of India.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.C.V.O.",
+    "expansion": "Knight Command\u00ac er of the Victorian Order.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.G.",
+    "expansion": "Knight of the Garter.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "kg.",
+    "expansion": "kilogram.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.G.C.",
+    "expansion": "Knight of the Grand",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.G.C.B.",
+    "expansion": "Knight of the Grand Cross of the Bath.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.G.C.M.G.",
+    "expansion": "Knight of the Grand Cross of St. Michael and St. George.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.G.H.",
+    "expansion": "Knight of the Guelphs of Hanover.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.H.",
+    "expansion": "Knight of Hanover.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "kl.",
+    "expansion": "kiloliter.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "IC.L.H.",
+    "expansion": "Knight of the Legion of Honor.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.M.",
+    "expansion": "Knight of Malta.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "km.",
+    "expansion": "k ilometer (km.2 \u2014 square kilometer).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.of P.",
+    "expansion": "-Knights of Pythias.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.P.",
+    "expansion": "Knight of St. Patrick; Kitchen Police (slang).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Kr",
+    "expansion": "krypton.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "K.T.",
+    "expansion": "K nights Templar ; 4073",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "kw.",
+    "expansion": "kilowatt.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "kw.-hr.",
+    "expansion": "kilowatt-hours.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ky .",
+    "expansion": "Kent ucky.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "L",
+    "expansion": "fifty ; libra, pound (English money).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "1.",
+    "expansion": "line; liter.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "La.",
+    "expansion": "Louisiana ; lanthanum.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Lam.",
+    "expansion": "Lamentations.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "lat.",
+    "expansion": "latitude.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "lb.",
+    "expansion": "libra, pound.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "l.c.",
+    "expansion": "lower case (type).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "L.C.M.",
+    "expansion": "1 east common multiple.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Lev.",
+    "expansion": "Leviticus.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "L.I.",
+    "expansion": "Long Island.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Li",
+    "expansion": "lithium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Lieut., Lt.",
+    "expansion": "Lieutenant.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Litt.B.",
+    "expansion": "Litterarum Bacca- laureus. Bachelor of Liter\u00ac ature.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Litt.D.",
+    "expansion": "Litterarum Doctor, Doctor of Literature.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "LL.B.",
+    "expansion": "Legum Baccalaureus, Bachelor of Laws.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "LL.D.",
+    "expansion": "Legum Doctor, Doc\u00ac tor of Laws.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "LL.M.",
+    "expansion": "L e g u m Magister, Master of Laws.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "loc.cit.",
+    "expansion": "loco citato, in the place cited.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "1 og.",
+    "expansion": "1 oga rithm.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Lu",
+    "expansion": "lutecium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "LXX",
+    "expansion": "Septuagint Version.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.",
+    "expansion": "Monsieur ; meridies, noon ; mille, one thousand ; meter.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.A.",
+    "expansion": "Magister A r t i u m , Master of Arts.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ma.E.",
+    "expansion": "Master of Engineer\u00ac ing.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Maj.",
+    "expansion": "Major.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mai.",
+    "expansion": "Malachi.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mar.",
+    "expansion": "March.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mass.",
+    "expansion": "Massachusetts.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Matt.",
+    "expansion": "Matthew.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.B.",
+    "expansion": "Medicinae Baccalau\u00ac reus, Bachelor of Medicine ; Bachelor of Music.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.C.",
+    "expansion": "Master in Surgery; Member of Congress.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.C.E.",
+    "expansion": "Master of Civil En\u00ac gineering.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.D.",
+    "expansion": "Medicinae Doctor, Doctor of Medicine.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Md.",
+    "expansion": "Maryland.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.D.S.",
+    "expansion": "Master of Dental Surgery.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "mdse.",
+    "expansion": "merchandise.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.E.",
+    "expansion": "Mining (or Mechani\u00ac cal) Engineer; Methodist Episcopal.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Me.",
+    "expansion": "Maine.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Messrs.",
+    "expansion": "Messieurs, Gentle\u00ac men, Sirs.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "mf.",
+    "expansion": "mezzo forte, moderately loud.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "mfg.",
+    "expansion": "manufacturing.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "mf rs.",
+    "expansion": "manufacturers.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mg",
+    "expansion": "magnesium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "mg.",
+    "expansion": "milligram.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mgr.",
+    "expansion": "Monsignor.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mic.",
+    "expansion": "Micah.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mich.",
+    "expansion": "Michigan.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Minn.",
+    "expansion": "Minnesota.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Miss.",
+    "expansion": "Mississippi.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mlle.",
+    "expansion": "Mademoiselle.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "MM.",
+    "expansion": "Messieurs.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "mm.",
+    "expansion": "m i 1 1 i m e t e r (mm.2, square millimeter; mm.3, cubic millimeter).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mme.",
+    "expansion": "Madame.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mn",
+    "expansion": "ma nganese.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mo.",
+    "expansion": "\u2014 Missouri ; molybdenum.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mon.",
+    "expansion": "Monday.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mont.",
+    "expansion": "Montana.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.P.",
+    "expansion": "Member of Parlia\u00ac ment ; Military Police.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "m.p.h.",
+    "expansion": "miles per hour.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.R.A.S.",
+    "expansion": "Member of the Royal Academy of Science ; Member of the Royal Asiatic Society.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.R.C.P.",
+    "expansion": "Member of the Royal College of Physi\u00ac cians.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.R.C.S.",
+    "expansion": "Member of the Royal College of Surgeons.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.R.G.S.",
+    "expansion": "Member of the Royal Geographical Society.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.R.I.",
+    "expansion": "M ember of the Royal Institution.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "MS.",
+    "expansion": "Manuscript (plural, MSS.).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mt.",
+    "expansion": "Mount, Mountain.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mus.B.",
+    "expansion": "Musicae Baccalau\u00ac reus, Bachelor of Music.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Mus.D.",
+    "expansion": "Musicae Doctor, Doctor of Music.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "M.V.O.",
+    "expansion": "Member of the Vic\u00ac torian Order.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.",
+    "expansion": "North ; nitrogen.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Na",
+    "expansion": "sodium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Nah.",
+    "expansion": "Nahum.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.B.",
+    "expansion": "nota bene, note well ; New Brunswick.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.C.",
+    "expansion": "North Carolina.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.D.",
+    "expansion": "North Dakota.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Nd",
+    "expansion": "neodymium.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.E.",
+    "expansion": "New England; north\u00ac east.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ne",
+    "expansion": "neon.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Neb.",
+    "expansion": "Nebraska.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Neh.",
+    "expansion": "Nehemiah.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "nem.con.",
+    "expansion": "nemine contradi- cente, \u201cno one contradict\u00ac ing,\u201d unanimously.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Nev.",
+    "expansion": "Nevada.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.F.",
+    "expansion": "Newfoundland.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.G.",
+    "expansion": "National Guard ; no good (slang).",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.H.",
+    "expansion": "New Hampshire.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "Ni",
+    "expansion": "nickel.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.J.",
+    "expansion": "New Jersey.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "N.M., N.Mex.",
+    "expansion": "New Mexico.",
+    "leaf": 240,
+    "folio": 4073
+   },
+   {
+    "abbr": "No.",
+    "expansion": "numero, number,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "non-com.",
+    "expansion": "no n-c o m m i s- sioned officer,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "non seq.",
+    "expansion": "non sequitur, it does not follow.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Nov.",
+    "expansion": "November.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "N.P.",
+    "expansion": "Notary Public.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "N.S.",
+    "expansion": "New Style; Nova Scotia.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "N.S.W.",
+    "expansion": "New South Wales.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "N.T.",
+    "expansion": "New Testament.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Num.",
+    "expansion": "Numbers.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.S.N.W.",
+    "expansion": "Northwest.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "N.W.T.",
+    "expansion": "Northwest Ter\u00ac ritory.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "N.Y.",
+    "expansion": "New York.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "U.S.S.O.",
+    "expansion": "Ohio; oxygen,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "ob.",
+    "expansion": "obiit, died.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Obad.",
+    "expansion": "Obadiah.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Q.E.D.Oct.",
+    "expansion": "October.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "O.K.",
+    "expansion": "all correct (slang).",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Okla.",
+    "expansion": "Oklahoma.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "V.C.O.M.",
+    "expansion": "Order of Merit.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ont.",
+    "expansion": "Ontario.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Q.M.G.O.F.",
+    "expansion": "Odd Fellow,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "op.cit.",
+    "expansion": "opere citato, in the work cited.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ore.",
+    "expansion": "Oregon.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "O.S.",
+    "expansion": "Old Style.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "V.S.Os",
+    "expansion": "osmium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "O.T.",
+    "expansion": "Old Testament.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.Oxon.",
+    "expansion": "Oxoniensis, of Ox\u00ac ford.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "oz.",
+    "expansion": "onza, ounce.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P",
+    "expansion": "phosphorus.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "p.",
+    "expansion": "piano, soft ; page.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Pa.",
+    "expansion": "\u2014 Pennsylvania.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Pb",
+    "expansion": "lead.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "W.P.C.",
+    "expansion": "Privy Council ; Privy Councilor.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "pet.",
+    "expansion": "per centum, by the",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "W.",
+    "expansion": "hundred.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Pd",
+    "expansion": "palladium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.E.I.",
+    "expansion": "Prince Edward Island.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Penn.",
+    "expansion": "Pennsylvania.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.T.P.Pet.",
+    "expansion": "Peter,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "pf.",
+    "expansion": "preferred.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "p.f.",
+    "expansion": "-piu forte, a little louder.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Pharm.D.",
+    "expansion": "D o c t o r of Pharmacy.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ph.B.",
+    "expansion": "Philosophiae Bacca- laurcus. Bachelor of Phi\u00ac losophy.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ph.D.",
+    "expansion": "Philosophiae Doctor, Doctor of Philosophy.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ph.G.",
+    "expansion": "Graduate in Phar\u00ac macy.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Phil.",
+    "expansion": "Philippians.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "T.H.R.V.Phila.",
+    "expansion": "Philadelphia.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.I.",
+    "expansion": "Philippine Islands,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "pkg.",
+    "expansion": "package.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.M.",
+    "expansion": "Past Master; post\u00ac master; post meridiem,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.",
+    "expansion": "after noon.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.O.",
+    "expansion": "Postoffice ; Province of Ontario.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.P.",
+    "expansion": "-Parcel Post,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "pp.",
+    "expansion": "pianissimo, very soft ; pages.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.P.C.",
+    "expansion": "Pour prendre conge, to take leave.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.R.",
+    "expansion": "Porto Rico.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Pr",
+    "expansion": "praseodymium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Prof.",
+    "expansion": "Professor,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "pro tem.",
+    "expansion": "pro tempore, for the time being.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Prov.",
+    "expansion": "Proverbs ; Province,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "prox.",
+    "expansion": "proximo, next month.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "P.S.",
+    "expansion": "post scriptum, post\u00ac script.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ps.",
+    "expansion": "Psalms.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Pt.",
+    "expansion": "Point; Port; Part; platinum.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "p wt .",
+    "expansion": "pennyweight . 0",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Q.E.D.",
+    "expansion": "quod erat demon\u00ac strandum, which was to be shown.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Q.E.F.",
+    "expansion": "quod erat facien\u00ac dum, which was to be done,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "ql",
+    "expansion": "quintal.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Q.M.G.",
+    "expansion": "Quartermaster-Gen\u00ac eral.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "qt.",
+    "expansion": "quart.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Que.",
+    "expansion": "Quebec.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "q.v.",
+    "expansion": "quod vide, which see.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.",
+    "expansion": "rex, king ; regina, queen.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.A.",
+    "expansion": "Royal Academy; Royal Artillery; Rear-Admiral.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ra",
+    "expansion": "radium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.A.M.",
+    "expansion": "Royal Academy of Music ; Royal Arch Mason.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.A.M.C.",
+    "expansion": "Royal Army Med\u00ac ical Corps.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Rb",
+    "expansion": "rubidium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Rev.",
+    "expansion": "Reverend ; Revelations.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.F.D.",
+    "expansion": "\u2014 Rural Free Delivery.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Rh",
+    "expansion": "rhodium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.I.",
+    "expansion": "Rhode Island.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.I.P.",
+    "expansion": "\u2014 Requiescat in pace, may he rest in peace,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "rit., ritard.",
+    "expansion": "ritardando, gradually slower,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "riten.",
+    "expansion": "\u2014 ritenuto, retarding.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.M.S.",
+    "expansion": "Royal Mail Steamer.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.N.",
+    "expansion": "Royal Navy; Reg\u00ac istered Nurse.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.N.W.M.P.",
+    "expansion": "Royal North\u00ac west Mounted Police.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.R.",
+    "expansion": "Railroad.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.S.V.P ,",
+    "expansion": "Respondez, s\u2019il vous plait. Answer, if you please.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Rt.Hon.",
+    "expansion": "Right Honorable.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Rt.Rev.",
+    "expansion": "Right Reverend.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ru",
+    "expansion": "-ruthenium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "R.V.",
+    "expansion": "Revised Version (of the Bible).",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ry.",
+    "expansion": "Railway.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.",
+    "expansion": "South ; sulphur.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "s.",
+    "expansion": "solidus, a shilling (Eng\u00ac lish money). fctll; me, yet, fern, there; 4074",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sa",
+    "expansion": "samarium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sam.",
+    "expansion": "Samuel.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.A.R.",
+    "expansion": "Sons of the Amer\u00ac ican Revolution.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sask.",
+    "expansion": "Saskatchewan.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sat.",
+    "expansion": "Saturday.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.B.",
+    "expansion": "Bachelor of Science.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sb",
+    "expansion": "antimony.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.C.",
+    "expansion": "South Carolina.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sc",
+    "expansion": "scandium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "sc.",
+    "expansion": "scilicet, that is to say.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sc.B.",
+    "expansion": "Scientiae Baccalau- reus. Bachelor of Science.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sc.D.",
+    "expansion": "Scientiae Doctor, Doctor of Science.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.D.",
+    "expansion": "South Dakota.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Se",
+    "expansion": "selenium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sept.",
+    "expansion": "September.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "seq.",
+    "expansion": "sequentia, the fol\u00ac lowing.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Si",
+    "expansion": "silicon.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.J.",
+    "expansion": "S ociety of Jesus (Jesuits).",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sn",
+    "expansion": "tin.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.O.S.",
+    "expansion": "Service of supply; also used as a wireless distress signal.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.P.C.A.",
+    "expansion": "Society for the Prevention of Cruelty to Animals.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.P.C.C.",
+    "expansion": "Society for the Prevention of Cruelty to Children.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "sp.gr.",
+    "expansion": "specific gravity.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.P.Q.R.",
+    "expansion": "S e n a t u s Popu- lusque Romanus, the Roman Senate and People.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sr.",
+    "expansion": "Senior; strontium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.R.S.",
+    "expansion": "Societatis Regiae So- cius, Fellow of the Royal Society.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "SS.",
+    "expansion": "Steamship.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "St.",
+    "expansion": "Saint; Strait; Street.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.T.B.",
+    "expansion": "Sacrae Theologiae Baccalaureus, Bachelor of Sacred Theology.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.T.D.",
+    "expansion": "Sacrae Theologiae Doctor, Doctor of Sacred Theology.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.T.P.",
+    "expansion": "Sacrae Theologiae Professor, Professor of Sacred Theology.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Sun.",
+    "expansion": "Sunday.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "s.v.",
+    "expansion": "sub voce, under the heading.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ta",
+    "expansion": "tantalum.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Tb",
+    "expansion": "terbium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Te",
+    "expansion": "tellurium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Tenn.",
+    "expansion": "Tennessee.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Tex.",
+    "expansion": "Texas. \u2014 Territory of Hawaii.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Th",
+    "expansion": "thorium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Thess.",
+    "expansion": "Thessalonians.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Thurs.",
+    "expansion": "Thursday.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ti",
+    "expansion": "titanium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Tim.",
+    "expansion": "Timothy.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Tl",
+    "expansion": "thallium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Tm",
+    "expansion": "thulium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Tues.",
+    "expansion": "Tuesday,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "twp.",
+    "expansion": "township.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "U",
+    "expansion": "uranium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "U.E.L.",
+    "expansion": "United Empire Loyalist.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "U.K.",
+    "expansion": "United Kingdom,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "ult.",
+    "expansion": "ultimo, last month.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "U.S.A.",
+    "expansion": "U nited States Army ; United States of .A. menca",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "U.S.M.",
+    "expansion": "-United States Mail; United States Marines.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "IJ.S.N.",
+    "expansion": "-United States Navy.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "U.S.P.",
+    "expansion": "United States Phar\u00ac macopoeia.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "O.",
+    "expansion": "-United States Ship; United States Steamer.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "V",
+    "expansion": "five; vanadium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Va.",
+    "expansion": "Virginia.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "V.C.",
+    "expansion": "Victoria Cross.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Ven.",
+    "expansion": "Venerable.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "V.G.",
+    "expansion": "Vicar-General ; Vice- Grand.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "V.I.",
+    "expansion": "Vancouver Island,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "viz.",
+    "expansion": "videlicet, namely,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "vol.",
+    "expansion": "volume.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "V.S.",
+    "expansion": "Veterinary Surgeon,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "vs.",
+    "expansion": "versus, against ; verse.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Vt.",
+    "expansion": "Vermont.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "W.",
+    "expansion": "West ; tungsten.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Wash.",
+    "expansion": "Washington.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "W.C.T.U.",
+    "expansion": "Woman\u2019s Chris\u00ac tian Temperance Union.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Wed.",
+    "expansion": "Wednesday.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Wis.",
+    "expansion": "Wisconsin.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "S.P.U.",
+    "expansion": "Women\u2019s Social and Political Union,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "wt.",
+    "expansion": "weight.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Va.",
+    "expansion": "West Virginia.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Wyo.",
+    "expansion": "Wyoming.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "X",
+    "expansion": "ten.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Xe",
+    "expansion": "xenon.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Xmas",
+    "expansion": "Christmas.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Yb",
+    "expansion": "ytterbium,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "yd.",
+    "expansion": "yard.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Y.M.C.A.",
+    "expansion": "Y o u n g Men\u2019s Christian Association.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Y.P.S.C.E.",
+    "expansion": "Young People\u2019s Society of Christian En\u00ac deavor,",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "yr.",
+    "expansion": "year.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Yt",
+    "expansion": "yttrium.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Y.W.C.A.",
+    "expansion": "Young Women\u2019s Christian Association.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Zech.",
+    "expansion": "Zechariah.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Zeph.",
+    "expansion": "Zephaniah.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Zn",
+    "expansion": "zinc.",
+    "leaf": 241,
+    "folio": 4074
+   },
+   {
+    "abbr": "Zr",
+    "expansion": "zirconium.",
+    "leaf": 241,
+    "folio": 4074
+   }
+  ],
+  "verified": false,
+  "note": "Reconstructed from the djvu word coordinates: the list runs in FOUR narrow sub-columns per page (not the index's three), with per-leaf left edges detected from abbreviation-token clusters; the djvu mis-places short abbreviation tokens at x0=0 and they were reattached to their dash-led lines by y. Flagged OCR-reconstructed; some entries are garbled (spaced initialisms were normalised, 'Mile.' corrected to 'Mlle.', the stray 'L.I.' prefix removed from 'G.O.P.'). The list runs A-Z across leaves 239-241 (A-G.C.D., G.C.H.-N.M., No.-Zr)."
+ },
+ "end_matter": {
+  "leaf_578": {
+   "leaf": 578,
+   "folio": null,
+   "description": "Blank."
+  },
+  "gateway_plate": {
+   "leaf_start": 579,
+   "leaf_end": 580,
+   "folio": 4410,
+   "description": "Two-leaf colour plate, the Hilda Hanway gateway artwork: leaf 579, a girl at a gate (left half); leaf 580, a boy with books at a gate (right half), signed 'Hilda Hanway'. The SAME artwork as the frontispiece on leaves 1-2, here without the copyright-deposit label. On site as plates v8-n579/v8-n580.",
+   "verified": true
+  },
+  "leaf_581": {
+   "leaf": 581,
+   "folio": null,
+   "description": "Blank / endpaper."
+  }
+ }
+}
